@@ -1,5 +1,5 @@
 ---
-title: "VITOBELLO LAB"
+title: "Vitobello Lab"
 summary: "Rare diseases · RNA Biology · Cellular Mechanisms"
 date: 2026-08-20
 type: landing
@@ -12,15 +12,12 @@ sections:
 
   - block: markdown
     content:
-      title: "VITOBELLO LAB"
-      subtitle: "Rare diseases · RNA Biology · Cellular Mechanisms"
+      title: "Vitobello Lab"
+      subtitle: "Deciphering how RNA regulation shapes human development and disease"
       text: |-
-        We investigate how RNA-binding proteins control RNA function across cellular compartments, and how disruption of these mechanisms leads to human disease.
+        We focus on RNA-binding proteins, transcription factors and chromatin regulators, with particular emphasis on how they shape RNA regulation, cellular identity and developmental processes.
 
         Our laboratory uses **human genetic variation as a window into fundamental RNA biology**, connecting genomic discovery with molecular mechanisms, cellular function and developmental phenotypes.
-
-        **From human genetic variation to disease mechanism:  
-        Genome → RNA → Cell → Tissue → Phenotype.**
 
     design:
       columns: "1"
@@ -38,20 +35,20 @@ sections:
 
         ### A unified research program
 
-        Rare genetic disorders provide a unique opportunity to discover
-        fundamental mechanisms of gene regulation.
+        Rare genetic disorders provide a unique opportunity to uncover
+        fundamental mechanisms of gene regulation during development.
 
-        We focus on **RNA-binding proteins (RBPs)** and investigate how
-        genetic variation alters RNA regulation, subcellular localization
-        and cellular identity.
+        We investigate how **regulatory proteins — including transcription
+        factors, chromatin regulators and RNA-binding proteins — control
+        gene expression, RNA function and cellular identity**, and how
+        disruption of these mechanisms leads to human disease.
 
-        Our research moves across biological scales:
+        Our research connects different biological scales:
 
-        **Patient → Genome → RNA → Cell → Organoid → Phenotype**
+        **Patient → Genome → Gene Regulation → RNA → Cell → Organoid → Phenotype**
 
     design:
       columns: "1"
-
 
   # ============================================================
   # 3. THREE RESEARCH DIRECTIONS
@@ -63,29 +60,28 @@ sections:
       title: "Research directions"
       text: |-
 
-        ### 01 · RNA-binding proteins in human disease
+        ### 01 · Regulatory proteins in human development
 
-        We use human genetic variation to identify RNA-binding proteins
-        and RNA regulatory mechanisms involved in rare developmental
-        disorders.
+        We investigate how **transcription factors, chromatin regulators
+        and RNA-binding proteins** control gene expression and cellular
+        identity during human development, and how genetic variation
+        disrupts these regulatory mechanisms.
 
-        ### 02 · Spatial regulation of RNA
+        ### 02 · Spatial and post-transcriptional regulation of RNA
 
-        We investigate how RNA-binding proteins regulate RNA function
-        beyond their classical nuclear roles, with a particular focus
-        on **subcellular RNA localization, cytoplasmic regulation and
-        RNA-protein condensates**.
+        We investigate how RNA regulation extends beyond transcription,
+        with a particular focus on **RNA-binding proteins, RNA localization,
+        cytoplasmic RNA regulation and RNA-protein condensates**.
 
-        ### 03 · From molecular mechanisms to phenotypes
+        ### 03 · From regulatory mechanisms to phenotypes
 
         We connect molecular perturbations to cellular and developmental
-        phenotypes using **CRISPR/Cas9 genome editing, functional
-        genomics, single-cell and spatial approaches, and human
-        cellular and organoid models**.
+        phenotypes using **CRISPR/Cas9 genome editing, functional genomics,
+        single-cell and spatial approaches, and human cellular and
+        organoid models**.
 
     design:
       columns: "1"
-
 
   # ============================================================
   # 4. RESEARCH PROJECTS

@@ -2,12 +2,30 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026-08-20
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: hero
     content:
+    title: 'VITOBELLO LAB'
+    text: |-
+        Human Genetics · RNA Biology · Neurodevelopment
+        Our research aims to understand how alterations in RNA regulation contribute to rare neurodevelopmental disorders. We combine human genetics with functional genomics, RNA biology, patient-derived cellular models, organoids and single-cell/spatial             approaches to investigate disease mechanisms and identify potential therapeutic strategies.
+      # immagine di sfondo o logo del lab
+      image:
+        filename: lab-hero.jpg
+      cta:
+        label: '📄 Main publications'
+        url: '#papers'
+      cta_alt:
+        label: 'Work with us'
+        url: '#contact'
+    design:
+      background:
+        gradient_mesh:
+          enable: true
+
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
@@ -35,8 +53,8 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: '📚 Our Research'
+      subtitle: 'We investigate how alterations in RNA regulation contribute to rare (neuro)developmental disorders, combining human genetics, functional genomics and human brain organoids cellular models.'
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 

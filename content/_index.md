@@ -5,20 +5,9 @@ summary: ''
 date: 2026-08-20
 type: landing
 
-sections:
-  - block: hero
-    content:
-      title: 'VITOBELLO LAB'
-      text: |-
-        Human Genetics · RNA Biology · Neurodevelopment
-
-        Our research aims to understand how alterations in RNA regulation contribute to rare neurodevelopmental disorders. We combine human genetics with functional genomics, RNA biology, patient-derived cellular models, organoids and single-cell/spatial approaches to investigate disease mechanisms and identify potential therapeutic strategies.
-      cta:
-        label: '📄 Main publications'
-        url: '#papers'
-      cta_alt:
-        label: 'Work with us'
-        url: '#contact'
+sections: 
+- block: resume-biography-3
+  content:
 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me

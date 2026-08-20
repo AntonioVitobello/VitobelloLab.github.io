@@ -2,13 +2,12 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2026-08-20
+date: 2022-10-24
 type: landing
 
-sections: 
-- block: resume-biography-3
-  content:
-
+sections:
+  - block: resume-biography-3
+    content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
@@ -36,8 +35,8 @@ sections: 
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 Our Research'
-      subtitle: 'We investigate how alterations in RNA regulation contribute to rare (neuro)developmental disorders, combining human genetics, functional genomics and human brain organoids cellular models.'
+      title: '📚 My Research'
+      subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 

@@ -19,10 +19,6 @@ sections:
       cta_alt:
         label: 'Work with us'
         url: '#contact'
-    design:
-      background:
-        gradient_mesh:
-          enable: true
 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me

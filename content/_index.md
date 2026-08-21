@@ -1,63 +1,87 @@
 ---
-title: "Vitobello Lab"
-summary: "Rare diseases · RNA Biology · Cellular Mechanisms"
+title: "VITOBELLO LAB"
+summary: "Human Genetics · Gene Regulation · RNA Biology"
 date: 2026-08-20
 type: landing
 
 sections:
 
   # ============================================================
-  # 1. SCIENTIFIC VISION
+  # 1. HERO
+  # ============================================================
+
+  - block: hero
+    content:
+      title: "Deciphering gene regulation in human development and disease"
+      text: >
+        We investigate how regulatory proteins shape gene expression,
+        RNA regulation and cellular identity, and how disruption of
+        these mechanisms leads to human disease.
+      primary_action:
+        text: "Explore our research"
+        url: "#research"
+      secondary_action:
+        text: "Publications"
+        url: "/publication/"
+    design:
+      background:
+        image:
+          filename: hero-rna.jpg
+          filters:
+            brightness: 0.7
+
+
+  # ============================================================
+  # 2. SCIENTIFIC VISION
   # ============================================================
 
   - block: markdown
     content:
-      title: "Vitobello Lab"
-      subtitle: "Deciphering how RNA regulation shapes human development and disease"
+      title: "VITOBELLO LAB"
+      subtitle: "Human Genetics · Gene Regulation · RNA Biology"
       text: |-
-        We focus on RNA-binding proteins, transcription factors and chromatin regulators, with particular emphasis on how they shape RNA regulation, cellular identity and developmental processes.
 
-        Our laboratory uses **human genetic variation as a window into fundamental RNA biology**, connecting genomic discovery with molecular mechanisms, cellular function and developmental phenotypes.
+        **Our laboratory uses human genetic variation as a window into
+        fundamental mechanisms of gene regulation**, connecting genomic
+        discovery with molecular mechanisms, cellular function and
+        developmental phenotypes.
+
+        **We investigate how regulatory proteins—including RNA-binding
+        proteins, transcription factors and chromatin regulators—shape
+        gene expression, RNA regulation, cellular identity and
+        developmental processes, with a particular interest in how
+        their spatial and temporal organization influences cell fate.**
 
     design:
       columns: "1"
 
 
   # ============================================================
-  # 2. RESEARCH FRAMEWORK
+  # 3. RESEARCH FRAMEWORK
   # ============================================================
 
   - block: markdown
     id: research
     content:
-      title: "Our research"
+      title: "Research framework"
       text: |-
 
-        ### A unified research program
+        ### From human genetic variation to biological mechanisms
 
-        Rare genetic disorders provide a unique opportunity to uncover
-        fundamental mechanisms of gene regulation during development.
-
-        We investigate how **regulatory proteins — including transcription
-        factors, chromatin regulators and RNA-binding proteins — control
-        gene expression, RNA function and cellular identity**, and how
-        disruption of these mechanisms leads to human disease.
-
-        Our research connects different biological scales:
-
-        **Patient → Genome → Gene Regulation → RNA → Cell → Organoid → Phenotype**
+        **Human genetics → Genome → Gene Regulation → RNA → Cell → Organoid → Phenotype**
 
     design:
       columns: "1"
 
+
   # ============================================================
-  # 3. THREE RESEARCH DIRECTIONS
+  # 4. RESEARCH PROGRAM
   # ============================================================
 
   - block: markdown
-    id: research-directions
+    id: research-program
     content:
-      title: "Research directions"
+      title: "Research program"
       text: |-
 
         ### 01 · Regulatory proteins in human development
@@ -83,15 +107,85 @@ sections:
     design:
       columns: "1"
 
+
   # ============================================================
-  # 4. RESEARCH PROJECTS
+  # 5. DISCOVERY & FUNCTIONAL GENOMICS
+  # ============================================================
+
+  - block: markdown
+    id: discovery
+    content:
+      title: "Discovery & Functional Genomics"
+      text: |-
+
+        We integrate **genomics, transcriptomics, epigenomics and
+        multi-omics approaches** to identify disease-associated genetic
+        variation and uncover molecular mechanisms in unresolved rare
+        disorders.
+
+        These discoveries provide the starting point for functional studies
+        of **gene regulation, RNA biology and cellular mechanisms**.
+
+        **Discovery**  
+        Genomics · Transcriptomics · Epigenomics · Multi-omics
+
+        **Definition**  
+        Gene regulation · RNA biology · Cellular mechanisms
+
+        **Functional modeling**  
+        CRISPR/Cas9 · Cellular models · Organoids · Single-cell · Spatial approaches
+
+        ### European networks & consortia
+
+        **Solve-RD · ERDERA**
+
+    design:
+      columns: "1"
+
+
+  # ============================================================
+  # 6. SELECTED PUBLICATIONS
+  # ============================================================
+
+  - block: markdown
+    id: selected-publications
+    content:
+      title: "Selected publications"
+      text: |-
+
+        ### 01 · Genetic discovery
+
+        From genomic variation to the identification of genes and
+        molecular mechanisms underlying rare human disorders.
+
+        ### 02 · Gene regulation & developmental mechanisms
+
+        Discovering how regulatory proteins shape gene expression,
+        cellular identity and human development.
+
+        ### 03 · RNA biology & spatial regulation
+
+        Understanding how RNA-binding proteins and RNA localization
+        contribute to cellular function and disease.
+
+        ### 04 · From mechanism to phenotype
+
+        Connecting molecular mechanisms to cellular and developmental
+        phenotypes through functional genomics and experimental models.
+
+    design:
+      columns: "1"
+
+
+  # ============================================================
+  # 7. RESEARCH PROJECTS
   # ============================================================
 
   - block: collection
     id: projects
     content:
       title: "Research Projects"
-      text: "Selected projects illustrating our research program."
+      text: "Selected projects supporting our research program."
       filters:
         folders:
           - projects
@@ -102,24 +196,24 @@ sections:
 
 
   # ============================================================
-  # 5. SELECTED PUBLICATIONS
+  # 8. ALL PUBLICATIONS
   # ============================================================
 
   - block: collection
-    id: papers
+    id: publications
     content:
-      title: "Selected Publications"
+      title: "Publications"
+      text: "Our complete list of publications."
       filters:
         folders:
           - publications
-        featured_only: true
     design:
       view: article-grid
       columns: 3
 
 
   # ============================================================
-  # 6. LATEST NEWS
+  # 9. LATEST NEWS
   # ============================================================
 
   - block: collection
@@ -139,13 +233,13 @@ sections:
 
 
   # ============================================================
-  # 7. JOIN THE LAB
+  # 10. JOIN THE LAB
   # ============================================================
 
   - block: cta-card
     content:
       title: "Join the Vitobello Lab"
-      text: "We are interested in motivated researchers, clinicians and students working at the interface of human genetics, RNA biology and functional genomics."
+      text: "We are interested in motivated researchers, clinicians and students working at the interface of human genetics, gene regulation and functional biology."
       button:
         text: "Join us"
         url: "/join-us/"

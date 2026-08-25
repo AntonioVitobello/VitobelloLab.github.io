@@ -2,11 +2,17 @@
 title: Publications
 cms_exclude: true
 
-# View.
-view: citation
+type: landing
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    content:
+      title: "Publications"
+      text: "153 publications · 2009–2026"
+      count: 0
+      page_type: publication
+      sort_by: Date
+      sort_ascending: false
+    design:
+      view: citation
 ---

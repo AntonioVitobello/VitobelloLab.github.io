@@ -13,7 +13,7 @@ sections:
   - block: hero
     id: hero
     content:
-      title: "Deciphering gene regulation in human development and disease"
+      title: "Deciphering gene regulation<br>in human development<br>and disease"
       text: >
         We investigate how regulatory proteins shape gene expression,
         RNA regulation and cellular identity, and how disruption of
@@ -33,6 +33,10 @@ sections:
           filename: hero-rna.jpg
           size: cover
           position: center
+          filters:
+            brightness: 0.85
+            contrast: 1.05
+            saturate: 1.05
           
     
   # ============================================================

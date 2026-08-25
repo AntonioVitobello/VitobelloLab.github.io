@@ -33,11 +33,7 @@ sections:
           filename: hero-rna.jpg
           size: cover
           position: center
-          filters:
-            brightness: 0.85
-            contrast: 1.05
-            saturate: 1.05
-
+          
     
   # ============================================================
   # 2. SCIENTIFIC VISION

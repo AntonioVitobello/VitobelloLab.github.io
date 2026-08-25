@@ -1,38 +1,19 @@
 /* ============================================================
-   VITOBELLO LAB — FULL WIDTH HERO
+   VITOBELLO LAB — HERO
    ============================================================ */
 
 .lab-hero {
   position: relative;
 }
 
-/* Dark gradient over the background image */
-.lab-hero::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  pointer-events: none;
-
-  background: linear-gradient(
-    90deg,
-    rgba(5, 15, 35, 0.82) 0%,
-    rgba(5, 15, 35, 0.60) 25%,
-    rgba(5, 15, 35, 0.25) 45%,
-    rgba(5, 15, 35, 0.00) 70%
-  );
-}
-
-/* Put the Hero content above the gradient */
-.lab-hero > div {
-  position: relative;
-  z-index: 2;
-}
-
-/* Text */
-.lab-hero h1 {
-  color: white;
+/* Left-align the Hero text */
+.lab-hero h1,
+.lab-hero p {
   text-align: left;
+}
+
+/* Title */
+.lab-hero h1 {
   max-width: 720px;
   font-size: clamp(3rem, 5vw, 5.2rem);
   line-height: 0.98;
@@ -40,9 +21,8 @@
   margin-bottom: 1.5rem;
 }
 
+/* Description */
 .lab-hero p {
-  color: white;
-  text-align: left;
   max-width: 620px;
   font-size: 1.15rem;
   line-height: 1.6;

@@ -1,0 +1,53 @@
+/* ============================================================
+   VITOBELLO LAB — HERO
+   ============================================================ */
+
+.lab-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Dark gradient only on the left, behind the text */
+.lab-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(5, 15, 35, 0.92) 0%,
+      rgba(5, 15, 35, 0.78) 24%,
+      rgba(5, 15, 35, 0.35) 42%,
+      rgba(5, 15, 35, 0.00) 62%
+    );
+}
+
+/* Keep hero content above the gradient */
+.lab-hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Main title */
+.lab-hero h1 {
+  max-width: 720px;
+  font-size: clamp(3rem, 5vw, 5.2rem);
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+}
+
+/* Description */
+.lab-hero p {
+  max-width: 620px;
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+/* Slightly more space between title and text */
+.lab-hero h1 {
+  margin-bottom: 1.5rem;
+}
+

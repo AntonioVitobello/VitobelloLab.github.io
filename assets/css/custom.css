@@ -17,10 +17,11 @@
   margin-right: auto;
 }
 
-/* Text alignment */
+/* Text */
 .lab-hero h1,
 .lab-hero p {
   text-align: left;
+  color: #ffffff;
 }
 
 /* Title */

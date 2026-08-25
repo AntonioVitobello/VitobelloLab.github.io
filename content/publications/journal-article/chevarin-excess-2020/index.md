@@ -73,7 +73,7 @@ authors:
 - Jean-Baptiste Rivière
 - Brian J. O’Roak
 - Laurence Faivre
-date: 2020-07
+date: 2020-07-01
 publication_types:
 - article-journal
 publication:

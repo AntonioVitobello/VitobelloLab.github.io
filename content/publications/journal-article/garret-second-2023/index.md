@@ -21,7 +21,7 @@ authors:
 - Christel Thauvin-Robinet
 - Laurence Faivre
 - Yannis Duffourd
-date: 2023-07
+date: 2023-07-01
 publication_types:
 - article-journal
 publication:

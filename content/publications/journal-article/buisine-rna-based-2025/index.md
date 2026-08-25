@@ -19,7 +19,7 @@ authors:
 - Sophie Krieger
 - Gérald Le Gac
 - Claude Houdayer
-date: 2025-10
+date: 2025-10-01
 publication_types:
 - article-journal
 publication:

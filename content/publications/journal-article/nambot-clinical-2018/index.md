@@ -26,7 +26,7 @@ authors:
 - Jean-Baptiste Rivière
 - Laurence Faivre
 - Christel Thauvin-Robinet
-date: 2018-06
+date: 2018-06-01
 publication_types:
 - article-journal
 publication:

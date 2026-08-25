@@ -35,7 +35,7 @@ authors:
 - Christophe Philippe
 - Laurence Faivre
 - Binnaz Yalcin
-date: 2023-07
+date: 2023-07-01
 publication_types:
 - article-journal
 publication:

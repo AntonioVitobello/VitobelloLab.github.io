@@ -24,7 +24,7 @@ authors:
 - Christel Thauvin-Robinet
 - Sandrine Marlin
 - Laurence Faivre
-date: 2019-09
+date: 2019-09-01
 publication_types:
 - article-journal
 publication:

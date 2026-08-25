@@ -21,7 +21,7 @@ authors:
 - Yannis Duffourd
 - Laurence Faivre
 - Christel Thauvin-Robinet
-date: 2019-10
+date: 2019-10-01
 publication_types:
 - article-journal
 publication:

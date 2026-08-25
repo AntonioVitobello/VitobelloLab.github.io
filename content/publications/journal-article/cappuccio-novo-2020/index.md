@@ -48,7 +48,7 @@ authors:
 - Jérôme Govin
 - Antonio Vitobello
 - Nicola Brunetti-Pierri
-date: 2020-11
+date: 2020-11-01
 publication_types:
 - article-journal
 publication:

@@ -37,7 +37,7 @@ authors:
 - Yannis Duffourd
 - Antonio Vitobello
 - Christel Thauvin-Robinet
-date: 2025-07
+date: 2025-07-01
 publication_types:
 - article-journal
 publication:

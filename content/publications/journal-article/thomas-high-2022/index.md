@@ -24,7 +24,7 @@ authors:
 - Christophe Philippe
 - Christel Thauvin-Robinet
 - Sébastien Moutton
-date: 2022-05
+date: 2022-05-01
 publication_types:
 - article-journal
 publication:

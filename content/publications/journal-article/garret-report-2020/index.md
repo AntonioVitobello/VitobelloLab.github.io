@@ -20,7 +20,7 @@ authors:
 - Alain Verloes
 - Laurence Faivre
 - Antonio Vitobello
-date: 2020-04
+date: 2020-04-01
 publication_types:
 - article-journal
 publication:

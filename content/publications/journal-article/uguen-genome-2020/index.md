@@ -32,7 +32,7 @@ authors:
 - Serge Romana
 - Jean-François Deleuze
 - Damien Sanlaville
-date: 2020-03
+date: 2020-03-01
 publication_types:
 - article-journal
 publication:

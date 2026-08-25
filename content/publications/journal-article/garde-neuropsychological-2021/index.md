@@ -43,7 +43,7 @@ authors:
 - Christophe Philippe
 - Christel Thauvin-Robinet
 - Laurence Faivre
-date: 2021-03
+date: 2021-03-01
 publication_types:
 - article-journal
 publication:

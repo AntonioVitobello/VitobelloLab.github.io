@@ -14,7 +14,7 @@ authors:
 - Laurence Faivre
 - Christel Thauvin-Robinet
 - Quentin Thomas
-date: 2026-01
+date: 2026-01-01
 publication_types:
 - article-journal
 publication:

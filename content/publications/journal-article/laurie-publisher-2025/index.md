@@ -110,7 +110,7 @@ authors:
 - Lisenka E. L. M. Vissers
 - Sergi Beltran
 - Alexander Hoischen
-date: 2025-08
+date: 2025-08-01
 publication_types:
 - article-journal
 publication:

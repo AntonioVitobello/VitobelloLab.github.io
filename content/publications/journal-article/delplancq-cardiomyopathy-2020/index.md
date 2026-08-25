@@ -21,7 +21,7 @@ authors:
 - Christel Thauvin-Robinet
 - Laurence Faivre
 - Paul Kuentz
-date: 2020-03
+date: 2020-03-01
 publication_types:
 - article-journal
 publication:

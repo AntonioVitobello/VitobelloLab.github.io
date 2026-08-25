@@ -17,7 +17,7 @@ authors:
 - Arthur Sorlin
 - Laurence Faivre
 - Christel Thauvin-Robinet
-date: 2019-11
+date: 2019-11-01
 publication_types:
 - article-journal
 publication:

@@ -57,7 +57,7 @@ authors:
 - Laurence Faivre
 - Christel Thauvin-Robinet
 - Antonio Vitobello
-date: 2021-06
+date: 2021-06-01
 publication_types:
 - article-journal
 publication:

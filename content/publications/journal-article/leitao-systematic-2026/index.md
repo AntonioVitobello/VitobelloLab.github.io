@@ -229,7 +229,7 @@ authors:
 - Christel Depienne
 - Gaetan Lesca
 - Caroline Nava
-date: 2026-04
+date: 2026-04-01
 publication_types:
 - article-journal
 publication:

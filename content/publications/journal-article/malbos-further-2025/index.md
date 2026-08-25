@@ -38,7 +38,7 @@ authors:
 - Jérôme Govin
 - Antonio Vitobello
 - Laurence Faivre
-date: 2025-12
+date: 2025-12-01
 publication_types:
 - article-journal
 publication:

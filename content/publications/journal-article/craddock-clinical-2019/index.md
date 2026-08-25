@@ -12,7 +12,7 @@ authors:
 - Marie-Noelle Bonnet Dupeyron
 - Laurence Faivre
 - Wendy K. Chung
-date: 2019-08
+date: 2019-08-01
 publication_types:
 - article-journal
 publication:

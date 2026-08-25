@@ -27,7 +27,7 @@ authors:
 - Christophe Philippe
 - Laurence Faivre
 - Christel Thauvin-Robinet
-date: 2019-07
+date: 2019-07-01
 publication_types:
 - article-journal
 publication:

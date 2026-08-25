@@ -6,7 +6,7 @@ authors:
 - Agnès Fromont
 - Christophe Philippe
 - Christel Thauvin-Robinet
-date: 2023-05
+date: 2023-05-01
 publication_types:
 - article-journal
 publication:

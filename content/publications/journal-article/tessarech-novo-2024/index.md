@@ -35,7 +35,7 @@ authors:
 - Annie Laquerriere
 - Salim Khiati
 - Estelle Colin
-date: 2024-05
+date: 2024-05-01
 publication_types:
 - article-journal
 publication:

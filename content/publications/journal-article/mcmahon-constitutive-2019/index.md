@@ -10,7 +10,7 @@ authors:
 - Jonathan Moggs
 - Colin J. Henderson
 - C. Roland Wolf
-date: 2019-01
+date: 2019-01-01
 publication_types:
 - article-journal
 publication:

@@ -42,7 +42,7 @@ authors:
 - Laurence Faivre
 - Frédéric Tran-Mau-Them
 - Nicolas Bourgon
-date: 2024-09
+date: 2024-09-01
 publication_types:
 - article-journal
 publication:

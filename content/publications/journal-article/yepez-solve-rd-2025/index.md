@@ -65,7 +65,7 @@ authors:
 - Alexander Hoischen
 - Julien Gagneur
 - Holm Graessner
-date: 2025-10
+date: 2025-10-01
 publication_types:
 - article-journal
 publication:

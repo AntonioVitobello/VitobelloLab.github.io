@@ -36,7 +36,7 @@ authors:
 - Edward C. Cooper
 - Maurizio Taglialatela
 - M. Roberta Cilio
-date: 2019-08
+date: 2019-08-01
 publication_types:
 - article-journal
 publication:

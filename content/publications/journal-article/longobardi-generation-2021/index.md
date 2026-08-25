@@ -11,7 +11,7 @@ authors:
 - Frédéric Tran Mau-Them
 - Antonio Vitobello
 - Maurizio Taglialatela
-date: 2021-05
+date: 2021-05-01
 publication_types:
 - article-journal
 publication:

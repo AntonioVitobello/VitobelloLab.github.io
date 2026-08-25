@@ -27,7 +27,7 @@ authors:
 - Pierre Moulin
 - Rémi Terranova
 - Jonathan G. Moggs
-date: 2014-06
+date: 2014-06-01
 publication_types:
 - article-journal
 publication:

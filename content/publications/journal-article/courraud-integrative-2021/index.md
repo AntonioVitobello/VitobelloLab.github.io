@@ -71,7 +71,7 @@ authors:
 - Jean-Louis Mandel
 - Rosanna Weksberg
 - Amélie Piton
-date: 2021-11
+date: 2021-11-01
 publication_types:
 - article-journal
 publication:

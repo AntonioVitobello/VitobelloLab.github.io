@@ -15,7 +15,7 @@ authors:
 - Camélia Oualiken
 - Christel Thauvin-Robinet
 - Frédéric Tran Mau-Them
-date: 2024-03
+date: 2024-03-01
 publication_types:
 - article-journal
 publication:

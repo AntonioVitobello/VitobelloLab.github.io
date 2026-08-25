@@ -25,7 +25,7 @@ authors:
 - Sebastien Moutton
 - Thomas B. Friedman
 - Sadaf Naz
-date: 2021-10
+date: 2021-10-01
 publication_types:
 - article-journal
 publication:

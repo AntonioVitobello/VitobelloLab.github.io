@@ -28,7 +28,7 @@ authors:
 - Julien Thevenon
 - Yannis Duffourd
 - Patrick Callier
-date: 2022-07
+date: 2022-07-01
 publication_types:
 - article-journal
 publication:

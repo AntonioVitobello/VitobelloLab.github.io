@@ -49,7 +49,7 @@ authors:
 - Arthur Sorlin
 - Laurence Faivre
 - Christel Thauvin-Robinet
-date: 2022-05
+date: 2022-05-01
 publication_types:
 - article-journal
 publication:

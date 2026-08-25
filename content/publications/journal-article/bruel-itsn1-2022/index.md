@@ -23,7 +23,7 @@ authors:
 - Christel Thauvin-Robinet
 - Christophe Philippe
 - Laurence Faivre
-date: 2022-01
+date: 2022-01-01
 publication_types:
 - article-journal
 publication:

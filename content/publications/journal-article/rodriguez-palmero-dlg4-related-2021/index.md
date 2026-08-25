@@ -87,7 +87,7 @@ authors:
 - Paulino Gómez-Puertas
 - Aurora Pujol
 - Zeynep Tümer
-date: 2021-05
+date: 2021-05-01
 publication_types:
 - article-journal
 publication:

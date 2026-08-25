@@ -121,7 +121,7 @@ tags:
 - Genetics
 - Alternative Splicing
 - Development
-featured: false
+featured: true
 links:
 - type: doi
   url: https://doi.org/10.1172/JCI182100

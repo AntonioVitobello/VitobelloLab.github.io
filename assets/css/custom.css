@@ -4,9 +4,34 @@
 
 .lab-hero {
   position: relative;
+  isolation: isolate;
 }
 
-/* Move Hero content to the left */
+/* ------------------------------------------------------------
+   Progressive dark overlay
+   ------------------------------------------------------------ */
+
+.lab-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: -1;
+
+  background: linear-gradient(
+    90deg,
+    rgba(5, 15, 35, 0.65) 0%,
+    rgba(5, 15, 35, 0.50) 20%,
+    rgba(5, 15, 35, 0.25) 40%,
+    rgba(5, 15, 35, 0.08) 58%,
+    rgba(5, 15, 35, 0.00) 75%
+  );
+}
+
+/* ------------------------------------------------------------
+   Move Hero content to the left
+   ------------------------------------------------------------ */
+
 .lab-hero .max-w-prose {
   margin-left: 0;
   margin-right: auto;
@@ -17,14 +42,20 @@
   margin-right: auto;
 }
 
-/* Text */
+/* ------------------------------------------------------------
+   Text
+   ------------------------------------------------------------ */
+
 .lab-hero h1,
 .lab-hero p {
   text-align: left;
   color: #ffffff;
 }
 
-/* Title */
+/* ------------------------------------------------------------
+   Title
+   ------------------------------------------------------------ */
+
 .lab-hero h1 {
   max-width: 720px;
   font-size: clamp(3rem, 5vw, 5.2rem);
@@ -33,7 +64,10 @@
   margin-bottom: 1.5rem;
 }
 
-/* Description */
+/* ------------------------------------------------------------
+   Description
+   ------------------------------------------------------------ */
+
 .lab-hero p {
   max-width: 620px;
   font-size: 1.15rem;

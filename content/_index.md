@@ -6,7 +6,7 @@ type: landing
 
 sections:
 
-  ## ============================================================
+  # ============================================================
   # 1. HERO
   # ============================================================
 
@@ -23,13 +23,14 @@ sections:
       secondary_action:
         text: "Publications"
         url: "/publication/"
+      media:
+        type: "image"
+        src: "hero-rna.jpg"
+        alt: "Gene regulation, RNA-binding proteins and human development"
     design:
-      css_class: "dark"
-      background:
-        image:
-          filename: hero-rna.jpg
-          filters:
-            brightness: 0.55
+      layout: "split-left"
+      alignment: "left"
+      size: "tall"
 
     
   # ============================================================

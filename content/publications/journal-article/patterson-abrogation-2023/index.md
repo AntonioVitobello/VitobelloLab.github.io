@@ -1,0 +1,84 @@
+---
+title: Abrogation of MAP4K4 protein function causes congenital anomalies in humans and zebrafish.
+authors:
+- Victoria Patterson
+- Farid Ullah
+- Laura Bryant
+- John N. Griffin
+- Alpa Sidhu
+- Sheila Saliganan
+- Mackenzie Blaile
+- Margarita S. Saenz
+- Rosemarie Smith
+- Sara Ellingwood
+- Dorothy K. Grange
+- Xuyun Hu
+- Maimaiti Mireguli
+- Yanfei Luo
+- Yiping Shen
+- Maureen Mulhern
+- Elaine Zackai
+- Alyssa Ritter
+- Kosaki Izumi
+- Julia Hoefele
+- Matias Wagner
+- Korbinian M. Riedhammer
+- Barbara Seitz
+- Nathaniel H. Robin
+- Dana Goodloe
+- Cyril Mignot
+- Boris Keren
+- Helen Cox
+- Joanna Jarvis
+- Maja Hempel
+- Cynthia Forster Gibson
+- Frederic Tran Mau-Them
+- Antonio Vitobello
+- Ange-Line Bruel
+- Arthur Sorlin
+- Sarju Mehta
+- F. Lucy Raymond
+- Kelly Gilmore
+- Bradford C. Powell
+- Karen Weck
+- Chumei Li
+- Anneke T. Vulto-van Silfhout
+- Thea Giacomini
+- Maria Margherita Mancardi
+- Andrea Accogli
+- Vincenzo Salpietro
+- Federico Zara
+- Neeta L. Vora
+- Erica E. Davis
+- Rebecca Burdine
+- Elizabeth Bhoj
+date: '2023-04-28T00:00:00Z'
+publication_types:
+- article-journal
+publication:
+  name: Science advances
+  volume: '9'
+  issue: '17'
+  page: eade0631
+peer_reviewed: true
+open_access: false
+abstract: We report 21 families displaying neurodevelopmental differences and multiple congenital anomalies while bearing a series of rare variants in mitogen-activated protein kinase kinase kinase kinase 4 (MAP4K4). MAP4K4 has been implicated in many signaling pathways including c-Jun N-terminal and RAS kinases and is currently under investigation as a druggable target for multiple disorders. Using several zebrafish models, we demonstrate that these human variants are either loss-of-function or dominant-negative alleles and show that decreasing Map4k4 activity causes developmental defects. Furthermore, MAP4K4 can restrain hyperactive RAS signaling in early embryonic stages. Together, our data demonstrate that MAP4K4 negatively regulates RAS signaling in the early embryo and that variants identified in affected humans abrogate its function, establishing MAP4K4 as a causal locus for individuals with syndromic neurodevelopmental differences.
+summary: We report 21 families displaying neurodevelopmental differences and multiple congenital anomalies while bearing a series of rare variants in mitogen-activated protein kinase kinase kinase kinase 4 (MAP4K4). MAP4K4 has been implicated in many signaling pathways including c-Jun N-terminal and RAS kinases and is currently under investigation as a druggable target for multiple disorders. Using several...
+tags:
+- Humans
+- Animals
+- Protein Serine-Threonine Kinases
+- '*Signal Transduction'
+- '*Zebrafish'
+- Intracellular Signaling Peptides and Proteins
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1126/sciadv.ade0631
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

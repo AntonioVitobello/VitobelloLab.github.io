@@ -1,0 +1,98 @@
+---
+title: Androgens mediate sexual dimorphism in pilarowski-bjornsson syndrome.
+authors:
+- Kimberley Jade Anderson
+- Eirny Tholl Thorolfsdottir
+- Ilana M. Nodelman
+- Sara Tholl Halldorsdottir
+- Stefania Benonisdottir
+- Malak Alghamdi
+- Naif Almontashiri
+- Brenda J. Barry
+- Matthias Begemann
+- Jacquelyn F. Britton
+- Sarah Burke
+- Benjamin Cogne
+- Ana S. A. Cohen
+- Carles de Diego Boguñá
+- Evan E. Eichler
+- Elizabeth C. Engle
+- Jill A. Fahrner
+- Laurence Faivre
+- Mélanie Fradin
+- Nico Fuhrmann
+- Christine W. Gao
+- Gunjan Garg
+- Dagmar Grečmalová
+- Mina Grippa
+- Jacqueline R. Harris
+- Kendra Hoekzema
+- Tova Hershkovitz
+- Sydney Hubbard
+- Katrien Janssens
+- Julie A. Jurgens
+- Stanislav Kmoch
+- Cordula Knopp
+- Meral Aktas Koptagel
+- Farah A. Ladha
+- Pablo Lapunzina
+- Tobias Lindau
+- Marije Meuwissen
+- Andreina Minicucci
+- Emily Neuhaus
+- Mathilde Nizon
+- Lenka Nosková
+- Kristen Park
+- Chirag Patel
+- Rolph Pfundt
+- Pankaj Prasun
+- Nils Rahner
+- Nathaniel H. Robin
+- Carey Ronspies
+- Jasmin Roohi
+- Jill Rosenfeld
+- Margarita Saenz
+- Carol Saunders
+- Zornitza Stark
+- Isabelle Thiffault
+- Sarah Thull
+- Danita Velasco
+- Clara Velmans
+- Jolijn Verseput
+- Antonio Vitobello
+- Tianyun Wang
+- Karin Weiss
+- Ingrid M. Wentzensen
+- Genay Pilarowski
+- Thor Eysteinsson
+- Madelyn Gillentine
+- Kári Stefánsson
+- Agnar Helgason
+- Gregory D. Bowman
+- Hans Tomas Bjornsson
+date: '2025-05-07T00:00:00Z'
+publication_types:
+- article-journal
+publication:
+  name: ''
+peer_reviewed: true
+open_access: false
+abstract: Sex-specific penetrance in autosomal dominant Mendelian conditions is largely understudied. The neurodevelopmental disorder Pilarowski-Bjornsson syndrome (PILBOS) was initially described in females. Here, we describe the clinical and genetic characteristics of the largest PILBOS cohort to date, showing that both sexes can exhibit PILBOS features, although males are overrepresented. A mouse model carrying a human-derived Chd1 missense variant (Chd1 (R616Q/+)) displays female-restricted phenotypes, including growth deficiency, anxiety and hypotonia. Orchiectomy unmasks a growth deficiency phenotype in male Chd1 (R616Q/+) mice, while testosterone rescues the phenotype in females, implicating androgens in phenotype modulation. In the gnomAD and UK Biobank databases, rare missense variants in CHD1 are overrepresented in males, supporting a male protective effect. We identify 33 additional highly constrained autosomal genes with missense variant overrepresentation in males. Our results
+  support androgen-regulated sexual dimorphism in PILBOS and open novel avenues to understand the mechanistic basis of sexual dimorphism in other autosomal Mendelian disorders.
+summary: Sex-specific penetrance in autosomal dominant Mendelian conditions is largely understudied. The neurodevelopmental disorder Pilarowski-Bjornsson syndrome (PILBOS) was initially described in females. Here, we describe the clinical and genetic characteristics of the largest PILBOS cohort to date, showing that both sexes can exhibit PILBOS features, although males are overrepresented. A mouse model c...
+tags:
+- Mendelian disease
+- CHD1
+- Neurodevelopmental disorder
+- Sex differences
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1101/2025.05.06.25326635
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

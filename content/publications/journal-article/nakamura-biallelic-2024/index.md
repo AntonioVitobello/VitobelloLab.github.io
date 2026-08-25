@@ -1,0 +1,103 @@
+---
+title: Biallelic null variants in PNPLA8 cause microcephaly by reducing the number of basal radial glia.
+authors:
+- Yuji Nakamura
+- Issei S. Shimada
+- Reza Maroofian
+- Micol Falabella
+- Maha S. Zaki
+- Masanori Fujimoto
+- Emi Sato
+- Hiroshi Takase
+- Shiho Aoki
+- Akihiko Miyauchi
+- Eriko Koshimizu
+- Satoko Miyatake
+- Yuko Arioka
+- Mizuki Honda
+- Takayoshi Higashi
+- Fuyuki Miya
+- Yukimune Okubo
+- Isamu Ogawa
+- Annarita Scardamaglia
+- Mohammad Miryounesi
+- Sahar Alijanpour
+- Farzad Ahmadabadi
+- Peter Herkenrath
+- Hormos Salimi Dafsari
+- Clara Velmans
+- Mohammed Al Balwi
+- Antonio Vitobello
+- Anne-Sophie Denommé-Pichon
+- Médéric Jeanne
+- Antoine Civit
+- Mohamed S. Abdel-Hamid
+- Hamed Naderi
+- Hossein Darvish
+- Somayeh Bakhtiari
+- Michael C. Kruer
+- Christopher J. Carroll
+- Ehsan Ghayoor Karimiani
+- Rozhgar A. Khailany
+- Talib Adil Abdulqadir
+- Mehmet Ozaslan
+- Peter Bauer
+- Giovanni Zifarelli
+- Tahere Seifi
+- Mina Zamani
+- Chadi Al Alam
+- Javeria Raza Alvi
+- Tipu Sultan
+- Stephanie Efthymiou
+- Simon A. S. Pope
+- Kazuhiro Haginoya
+- Tamihide Matsunaga
+- Hitoshi Osaka
+- Naomichi Matsumoto
+- Norio Ozaki
+- Yasuyuki Ohkawa
+- Shinya Oki
+- Tatsuhiko Tsunoda
+- Robert D. S. Pitceathly
+- Yoshitaka Taketomi
+- Henry Houlden
+- Makoto Murakami
+- Yoichi Kato
+- Shinji Saitoh
+date: '2024-11-04T00:00:00Z'
+publication_types:
+- article-journal
+publication:
+  name: 'Brain : a journal of neurology'
+  volume: '147'
+  issue: '11'
+  page: 3949-3967
+peer_reviewed: true
+open_access: false
+abstract: Patatin-like phospholipase domain-containing lipase 8 (PNPLA8), one of the calcium-independent phospholipase A2 enzymes, is involved in various physiological processes through the maintenance of membrane phospholipids. Biallelic variants in PNPLA8 have been associated with a range of paediatric neurodegenerative disorders. However, the phenotypic spectrum, genotype-phenotype correlations and the underlying mechanisms are poorly understood. Here, we newly identified 14 individuals from 12 unrelated families with biallelic ultra-rare variants in PNPLA8 presenting with a wide phenotypic spectrum of clinical features. Analysis of the clinical features of current and previously reported individuals (25 affected individuals across 20 families) showed that PNPLA8-related neurological diseases manifest as a continuum ranging from variable developmental and/or degenerative epileptic-dyskinetic encephalopathy to childhood-onset neurodegeneration. We found that complete loss of PNPLA8 was
+  associated with the more profound end of the spectrum, with congenital microcephaly. Using cerebral organoids generated from human induced pluripotent stem cells, we found that loss of PNPLA8 led to developmental defects by reducing the number of basal radial glial cells and upper-layer neurons. Spatial transcriptomics revealed that loss of PNPLA8 altered the fate specification of apical radial glial cells, as reflected by the enrichment of gene sets related to the cell cycle, basal radial glial cells and neural differentiation. Neural progenitor cells lacking PNPLA8 showed a reduced amount of lysophosphatidic acid, lysophosphatidylethanolamine and phosphatidic acid. The reduced number of basal radial glial cells in patient-derived cerebral organoids was rescued, in part, by the addition of lysophosphatidic acid. Our data suggest that PNPLA8 is crucial to meet phospholipid synthetic needs and to produce abundant basal radial glial cells in human brain development.
+summary: Patatin-like phospholipase domain-containing lipase 8 (PNPLA8), one of the calcium-independent phospholipase A2 enzymes, is involved in various physiological processes through the maintenance of membrane phospholipids. Biallelic variants in PNPLA8 have been associated with a range of paediatric neurodegenerative disorders. However, the phenotypic spectrum, genotype-phenotype correlations and the u...
+tags:
+- Female
+- Humans
+- Male
+- Adolescent
+- Child
+- Child
+- Preschool
+- Infant
+- '*Microcephaly/genetics/pathology'
+- '*Neuroglia/pathology/metabolism'
+- '*Phospholipases A2'
+- Calcium-Independent/genetics/metabolism
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1093/brain/awae185
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

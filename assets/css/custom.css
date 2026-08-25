@@ -7,53 +7,91 @@
   overflow: hidden;
 }
 
-/* Gradient overlay */
+/* ------------------------------------------------------------
+   Dark gradient for text readability
+   ------------------------------------------------------------ */
+
 .lab-hero::before {
   content: "";
   position: absolute;
   inset: 0;
   pointer-events: none;
+  z-index: 1;
 
   background: linear-gradient(
     90deg,
-    rgba(5, 15, 35, 0.88) 0%,
-    rgba(5, 15, 35, 0.68) 25%,
-    rgba(5, 15, 35, 0.28) 45%,
+    rgba(5, 15, 35, 0.82) 0%,
+    rgba(5, 15, 35, 0.60) 25%,
+    rgba(5, 15, 35, 0.22) 45%,
     rgba(5, 15, 35, 0.00) 68%
   );
+}
 
+/* ------------------------------------------------------------
+   Keep HugoBlox background image visible
+   ------------------------------------------------------------ */
+
+.lab-hero .hero-media {
+  z-index: 0;
+}
+
+/* ------------------------------------------------------------
+   Text and buttons above the gradient
+   ------------------------------------------------------------ */
+
+.lab-hero .container {
+  position: relative;
   z-index: 2;
 }
 
-/* Keep the hero image below the overlay */
-.lab-hero img {
-  position: relative;
-  z-index: 1;
-}
-
-/* Keep text and buttons above everything */
-.lab-hero .container,
-.lab-hero .flex,
-.lab-hero h1,
-.lab-hero p,
-.lab-hero a,
-.lab-hero .btn {
+.lab-hero .hero-content {
   position: relative;
   z-index: 3;
 }
 
-/* Main title */
+/* ------------------------------------------------------------
+   LEFT ALIGNMENT
+   ------------------------------------------------------------ */
+
+.lab-hero .hero-content {
+  text-align: left;
+  align-items: flex-start;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+/* Make sure title and paragraph stay left aligned */
+.lab-hero h1,
+.lab-hero p {
+  text-align: left;
+}
+
+/* ------------------------------------------------------------
+   TITLE
+   ------------------------------------------------------------ */
+
 .lab-hero h1 {
-  max-width: 680px;
+  max-width: 720px;
   font-size: clamp(3rem, 5vw, 5.2rem);
   line-height: 0.98;
   letter-spacing: -0.035em;
   margin-bottom: 1.5rem;
 }
 
-/* Description */
+/* ------------------------------------------------------------
+   DESCRIPTION
+   ------------------------------------------------------------ */
+
 .lab-hero p {
   max-width: 620px;
   font-size: 1.15rem;
   line-height: 1.6;
+}
+
+/* ------------------------------------------------------------
+   BUTTONS
+   ------------------------------------------------------------ */
+
+.lab-hero .btn {
+  margin-top: 1rem;
 }

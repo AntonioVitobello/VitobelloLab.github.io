@@ -10,7 +10,7 @@ sections:
   # 1. HERO
   # ============================================================
 
-    - block: hero
+      - block: hero
     content:
       title: "Deciphering gene regulation in human development and disease"
       text: >
@@ -25,8 +25,6 @@ sections:
         url: "/publication/"
     design:
       css_class: "dark"
-      spacing:
-        padding: ["8rem", "0", "8rem", "0"]
       background:
         image:
           filename: hero-rna.jpg

@@ -11,6 +11,7 @@ sections:
   # ============================================================
 
   - block: hero
+    id: hero
     content:
       title: "Deciphering gene regulation in human development and disease"
       text: >
@@ -23,14 +24,19 @@ sections:
       secondary_action:
         text: "Publications"
         url: "/publication/"
-      media:
-        type: "image"
-        src: "hero-rna.jpg"
-        alt: "Gene regulation, RNA-binding proteins and human development"
     design:
-      layout: "split-left"
+      css_class: "lab-hero"
+      size: "viewport"
       alignment: "left"
-      size: "tall"
+      background:
+        image:
+          filename: hero-rna.jpg
+          size: cover
+          position: center
+          filters:
+            brightness: 0.85
+            contrast: 1.05
+            saturate: 1.05
 
     
   # ============================================================

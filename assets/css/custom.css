@@ -7,36 +7,48 @@
   overflow: hidden;
 }
 
-/* Dark gradient only on the left, behind the text */
+/* Gradient overlay */
 .lab-hero::before {
   content: "";
   position: absolute;
   inset: 0;
   pointer-events: none;
-  z-index: 0;
 
-  background:
-    linear-gradient(
-      90deg,
-      rgba(5, 15, 35, 0.92) 0%,
-      rgba(5, 15, 35, 0.78) 24%,
-      rgba(5, 15, 35, 0.35) 42%,
-      rgba(5, 15, 35, 0.00) 62%
-    );
+  background: linear-gradient(
+    90deg,
+    rgba(5, 15, 35, 0.88) 0%,
+    rgba(5, 15, 35, 0.68) 25%,
+    rgba(5, 15, 35, 0.28) 45%,
+    rgba(5, 15, 35, 0.00) 68%
+  );
+
+  z-index: 2;
 }
 
-/* Keep hero content above the gradient */
-.lab-hero > * {
+/* Keep the hero image below the overlay */
+.lab-hero img {
   position: relative;
   z-index: 1;
 }
 
+/* Keep text and buttons above everything */
+.lab-hero .container,
+.lab-hero .flex,
+.lab-hero h1,
+.lab-hero p,
+.lab-hero a,
+.lab-hero .btn {
+  position: relative;
+  z-index: 3;
+}
+
 /* Main title */
 .lab-hero h1 {
-  max-width: 720px;
+  max-width: 680px;
   font-size: clamp(3rem, 5vw, 5.2rem);
   line-height: 0.98;
   letter-spacing: -0.035em;
+  margin-bottom: 1.5rem;
 }
 
 /* Description */
@@ -45,9 +57,3 @@
   font-size: 1.15rem;
   line-height: 1.6;
 }
-
-/* Slightly more space between title and text */
-.lab-hero h1 {
-  margin-bottom: 1.5rem;
-}
-

@@ -1,0 +1,154 @@
+---
+title: SPEN haploinsufficiency causes a neurodevelopmental disorder overlapping proximal 1p36 deletion syndrome with an episignature of x chromosomes in females.
+authors:
+- Francesca Clementina Radio
+- Kaifang Pang
+- Andrea Ciolfi
+- Michael A. Levy
+- Andrés Hernández-García
+- Lucia Pedace
+- Francesca Pantaleoni
+- Zhandong Liu
+- Elke de Boer
+- Adam Jackson
+- Alessandro Bruselles
+- Haley McConkey
+- Emilia Stellacci
+- Stefania Lo Cicero
+- Marialetizia Motta
+- Rosalba Carrozzo
+- Maria Lisa Dentici
+- Kirsty McWalter
+- Megha Desai
+- Kristin G. Monaghan
+- Aida Telegrafi
+- Christophe Philippe
+- Antonio Vitobello
+- Margaret Au
+- Katheryn Grand
+- Pedro A. Sanchez-Lara
+- Joanne Baez
+- Kristin Lindstrom
+- Peggy Kulch
+- Jessica Sebastian
+- Suneeta Madan-Khetarpal
+- Chelsea Roadhouse
+- Jennifer J. MacKenzie
+- Berrin Monteleone
+- Carol J. Saunders
+- July K. Jean Cuevas
+- Laura Cross
+- Dihong Zhou
+- Taila Hartley
+- Sarah L. Sawyer
+- Fabíola Paoli Monteiro
+- Tania Vertemati Secches
+- Fernando Kok
+- Laura E. Schultz-Rogers
+- Erica L. Macke
+- Eva Morava
+- Eric W. Klee
+- Jennifer Kemppainen
+- Maria Iascone
+- Angelo Selicorni
+- Romano Tenconi
+- David J. Amor
+- Lynn Pais
+- Lyndon Gallacher
+- Peter D. Turnpenny
+- Karen Stals
+- Sian Ellard
+- Sara Cabet
+- Gaetan Lesca
+- Joset Pascal
+- Katharina Steindl
+- Sarit Ravid
+- Karin Weiss
+- Alison M. R. Castle
+- Melissa T. Carter
+- Louisa Kalsner
+- Bert B. A. de Vries
+- Bregje W. van Bon
+- Marijke R. Wevers
+- Rolph Pfundt
+- Alexander P. A. Stegmann
+- Bronwyn Kerr
+- Helen M. Kingston
+- Kate E. Chandler
+- Willow Sheehan
+- Abdallah F. Elias
+- Deepali N. Shinde
+- Meghan C. Towne
+- Nathaniel H. Robin
+- Dana Goodloe
+- Adeline Vanderver
+- Omar Sherbini
+- Krista Bluske
+- R. Tanner Hagelstrom
+- Caterina Zanus
+- Flavio Faletra
+- Luciana Musante
+- Evangeline C. Kurtz-Nelson
+- Rachel K. Earl
+- Britt-Marie Anderlid
+- Gilles Morin
+- Marjon van Slegtenhorst
+- Karin E. M. Diderich
+- Alice S. Brooks
+- Joost Gribnau
+- Ruben G. Boers
+- Teresa Robert Finestra
+- Lauren B. Carter
+- Anita Rauch
+- Paolo Gasparini
+- Kym M. Boycott
+- Tahsin Stefan Barakat
+- John M. Jr Graham
+- Laurence Faivre
+- Siddharth Banka
+- Tianyun Wang
+- Evan E. Eichler
+- Manuela Priolo
+- Bruno Dallapiccola
+- Lisenka E. L. M. Vissers
+- Bekim Sadikovic
+- Daryl A. Scott
+- Jimmy Lloyd Jr Holder
+- Marco Tartaglia
+date: '2021-03-04T00:00:00Z'
+publication_types:
+- article-journal
+publication:
+  name: American journal of human genetics
+  volume: '108'
+  issue: '3'
+  page: 502-516
+peer_reviewed: true
+open_access: false
+abstract: Deletion 1p36 (del1p36) syndrome is the most common human disorder resulting from a terminal autosomal deletion. This condition is molecularly and clinically heterogeneous. Deletions involving two non-overlapping regions, known as the distal (telomeric) and proximal (centromeric) critical regions, are sufficient to cause the majority of the recurrent clinical features, although with different facial features and dysmorphisms. SPEN encodes a transcriptional repressor commonly deleted in proximal del1p36 syndrome and is located centromeric to the proximal 1p36 critical region. Here, we used clinical data from 34 individuals with truncating variants in SPEN to define a neurodevelopmental disorder presenting with features that overlap considerably with those of proximal del1p36 syndrome. The clinical profile of this disease includes developmental delay/intellectual disability, autism spectrum disorder, anxiety, aggressive behavior, attention deficit disorder, hypotonia, brain and spine
+  anomalies, congenital heart defects, high/narrow palate, facial dysmorphisms, and obesity/increased BMI, especially in females. SPEN also emerges as a relevant gene for del1p36 syndrome by co-expression analyses. Finally, we show that haploinsufficiency of SPEN is associated with a distinctive DNA methylation episignature of the X chromosome in affected females, providing further evidence of a specific contribution of the protein to the epigenetic control of this chromosome, and a paradigm of an X chromosome-specific episignature that classifies syndromic traits. We conclude that SPEN is required for multiple developmental processes and SPEN haploinsufficiency is a major contributor to a disorder associated with deletions centromeric to the previously established 1p36 critical regions.
+summary: Deletion 1p36 (del1p36) syndrome is the most common human disorder resulting from a terminal autosomal deletion. This condition is molecularly and clinically heterogeneous. Deletions involving two non-overlapping regions, known as the distal (telomeric) and proximal (centromeric) critical regions, are sufficient to cause the majority of the recurrent clinical features, although with different faci...
+tags:
+- Female
+- Humans
+- Adolescent
+- Child
+- Phenotype
+- Child
+- Preschool
+- Young Adult
+- episignature
+- neurodevelopmental disorder
+- Haploinsufficiency/genetics
+- Chromosome Deletion
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1016/j.ajhg.2021.01.015
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

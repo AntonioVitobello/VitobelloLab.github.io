@@ -1,0 +1,96 @@
+---
+title: The detection of a strong episignature for chung-jansen syndrome, partially overlapping with börjeson-forssman-lehmann and white-kernohan syndromes.
+authors:
+- Niels Vos
+- Sadegheh Haghshenas
+- Liselot van der Laan
+- Perle K. M. Russel
+- Kathleen Rooney
+- Michael A. Levy
+- Raissa Relator
+- Jennifer Kerkhof
+- Haley McConkey
+- Saskia M. Maas
+- Lisenka E. L. M. Vissers
+- Bert B. A. de Vries
+- Rolph Pfundt
+- Mariet W. Elting
+- Johanna M. van Hagen
+- Nienke E. Verbeek
+- Marjolijn C. J. Jongmans
+- Phillis Lakeman
+- Lynne Rumping
+- Danielle G. M. Bosch
+- Antonio Vitobello
+- Christel Thauvin-Robinet
+- Laurence Faivre
+- Sophie Nambot
+- Aurore Garde
+- Marjolaine Willems
+- David Genevieve
+- Gaël Nicolas
+- Tiffany Busa
+- Annick Toutain
+- Marion Gérard
+- Varoona Bizaoui
+- Bertrand Isidor
+- Giuseppe Merla
+- Maria Accadia
+- Charles E. Schwartz
+- Katrin Ounap
+- Mariëtte J. V. Hoffer
+- Marjan M. Nezarati
+- Marie-José H. van den Boogaard
+- Matthew L. Tedder
+- Curtis Rogers
+- Alfredo Brusco
+- Giovanni B. Ferrero
+- Marta Spodenkiewicz
+- Richard Sidlow
+- Alessandro Mussa
+- Slavica Trajkova
+- Emma McCann
+- Henry J. Mroczkowski
+- Sandra Jansen
+- Laura Donker-Kaat
+- Floor A. M. Duijkers
+- Kyra E. Stuurman
+- Marcel M. A. M. Mannens
+- Mariëlle Alders
+- Peter Henneman
+- Susan M. White
+- Bekim Sadikovic
+- Mieke M. van Haelst
+date: 2024-06
+publication_types:
+- article-journal
+publication:
+  name: Human genetics
+  volume: '143'
+  issue: '6'
+  page: 761-773
+peer_reviewed: true
+open_access: false
+abstract: Chung-Jansen syndrome is a neurodevelopmental disorder characterized by intellectual disability, behavioral problems, obesity and dysmorphic features. It is caused by pathogenic variants in the PHIP gene that encodes for the Pleckstrin homology domain-interacting protein, which is part of an epigenetic modifier protein complex. Therefore, we hypothesized that PHIP haploinsufficiency may impact genome-wide DNA methylation (DNAm). We assessed the DNAm profiles of affected individuals with pathogenic and likely pathogenic PHIP variants with Infinium Methylation EPIC arrays and report a specific and sensitive DNAm episignature biomarker for Chung-Jansen syndrome. In addition, we observed similarities between the methylation profile of Chung-Jansen syndrome and that of functionally related and clinically partially overlapping genetic disorders, White-Kernohan syndrome (caused by variants in DDB1 gene) and Börjeson-Forssman-Lehmann syndrome (caused by variants in PHF6 gene). Based on
+  these observations we also proceeded to develop a common episignature biomarker for these disorders. These newly defined episignatures can be used as part of a multiclass episignature classifier for screening of affected individuals with rare disorders and interpretation of genetic variants of unknown clinical significance, and provide further insights into the common molecular pathophysiology of the clinically-related Chung-Jansen, Börjeson-Forssman-Lehmann and White-Kernohan syndromes.
+summary: Chung-Jansen syndrome is a neurodevelopmental disorder characterized by intellectual disability, behavioral problems, obesity and dysmorphic features. It is caused by pathogenic variants in the PHIP gene that encodes for the Pleckstrin homology domain-interacting protein, which is part of an epigenetic modifier protein complex. Therefore, we hypothesized that PHIP haploinsufficiency may impact gen...
+tags:
+- Female
+- Humans
+- Male
+- Child
+- '*DNA Methylation'
+- '*Intellectual Disability/genetics/diagnosis'
+- Haploinsufficiency/genetics
+- Neurodevelopmental Disorders/genetics/diagnosis
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1007/s00439-024-02679-w
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

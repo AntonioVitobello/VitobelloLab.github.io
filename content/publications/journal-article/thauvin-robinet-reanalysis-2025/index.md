@@ -1,0 +1,88 @@
+---
+title: 'Reanalysis of unsolved prenatal exome sequencing for structural defects: Diagnostic yield and contribution of postnatal/postmortem features.'
+authors:
+- Christel Thauvin-Robinet
+- Aurore Garde
+- Maud Favier
+- Julian Delanne
+- Caroline Racine
+- Thierry Rousseau
+- Sophie Nambot
+- Ange-Line Bruel
+- Sébastien Moutton
+- Chloé Quelin
+- Cindy Colson
+- Anne-Claire Brehin
+- Anne-Marie Guerrot
+- Caroline Rooryck
+- Audrey Putoux
+- Patricia Blanchet
+- Sylvie Odent
+- Elise Schaefer
+- Odile Boute
+- Alice Goldenberg
+- Agnes Guichet
+- Carine Abel
+- Godelieve Morel
+- Melanie Fradin
+- Bertrand Isidor
+- Marie Vincent
+- Christine Francannet
+- Gabriella Vera
+- Florence Petit
+- Mathilde Nizon
+- Constance Wells
+- Mederic Jeanne
+- Caroline Deiller
+- Alban Ziegler
+- Manon Godin
+- Pascale Saugier-Veber
+- Kevin Cassinari
+- Pierre Blanc
+- Emmanuel Simon
+- Christine Binquet
+- Yannis Duffourd
+- Hana Safraou
+- Anne-Sophie Denomme-Pichon
+- Antonio Vitobello
+- Christophe Philippe
+- Laurence Faivre
+- Frédéric Tran-Mau-Them
+- Nicolas Bourgon
+date: 2025-05
+publication_types:
+- article-journal
+publication:
+  name: 'European journal of human genetics : EJHG'
+  volume: '33'
+  issue: '5'
+  page: 675-682
+peer_reviewed: true
+open_access: false
+abstract: 'In 30-40% of fetuses with structural defects, the causal variant remains undiagnosed after karyotype, chromosomal microarray, and exome sequencing. This study presents the results of a reanalysis of unsolved prenatal ES (pES) cases and investigates how postnatal/postmortem phenotyping contributes to identifying relevant variants. pES data was prospectively reanalyzed for unsolved cases enrolled in the AnDDI-Prénatome cohort study. Postnatal/postmortem data were included with prenatal features using Human Phenotype Ontology terms up to 3 years after pES. The reanalysis involved updating bioinformatic processing and querying raw data using a GREP query. We reanalyzed 58/94 (62%) unsolved pES cases, including 8 variants of unknown significance. Data for clinical examination at birth was available for all live newborns, and postmortem examination was available in 12 terminated fetuses. Additional features were identified at birth in 27/58 cases (44%): 9 terminated fetuses, 2 stillbirths,
+  and 16 live newborns. One diagnosis (SNAPC4) was obtained through a periodic query following recent associations with human disease, and without additional clinical data. Three additional VUS were identified through reanalysis with the addition of new clinical features, illustrating the limited contribution of updated postnatal/postmortem phenotyping in identifying relevant variants after negative pES. In conclusion, the benefit of prospective reanalysis of unsolved pES is limited, even over time. Postnatal genome sequencing may be a more appropriate option than reanalysis with postnatal/postmortem phenotyping to establish a causal diagnosis.'
+summary: In 30-40% of fetuses with structural defects, the causal variant remains undiagnosed after karyotype, chromosomal microarray, and exome sequencing. This study presents the results of a reanalysis of unsolved prenatal ES (pES) cases and investigates how postnatal/postmortem phenotyping contributes to identifying relevant variants. pES data was prospectively reanalyzed for unsolved cases enrolled in...
+tags:
+- Female
+- Humans
+- Male
+- Pregnancy
+- Phenotype
+- Infant
+- Newborn
+- '*Genetic Testing/standards/methods'
+- '*Congenital Abnormalities/genetics/diagnosis/pathology'
+- '*Exome Sequencing/standards/methods'
+- '*Prenatal Diagnosis/methods/standards'
+- Autopsy
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1038/s41431-025-01823-y
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

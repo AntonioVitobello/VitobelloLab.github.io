@@ -1,0 +1,107 @@
+---
+title: De novo variants in the splicing factor gene SF3B1 are associated with neurodevelopmental disorders.
+authors:
+- Kevin Uguen
+- Tiffany Bergot
+- Marie-Pier Scott-Boyer
+- Solène Chapalain
+- Camille Desdouets
+- Séverine Commet
+- Changlian Zhu
+- Yiran Xu
+- Yangong Wang
+- Tony Roscioli
+- Frederic Tran-Mau-Them
+- Laurence Faivre
+- Julien Maraval
+- Julian Delanne
+- Anne-Sophie Denommé-Pichon
+- Antonio Vitobello
+- Céline Jost
+- Marc Planes
+- Susan Hiatt
+- Patricia Wheeler
+- Claudia Gonzaga-Jauregui
+- Heng Wang
+- Baozhong Xin
+- Valerie Sency
+- Michael C. Kruer
+- Somayeh Bakhtiari
+- Patrick Sulem
+- Cynthia Curry
+- Trine Prescott
+- Gertrud Strobl-Wildemann
+- Theresa Brunet
+- Martine Doco Fenzy
+- Thomas Courtin
+- Céline Poirsier
+- Trine Bjørg Hammer
+- Christina D. Fenger
+- Melissa MacPherson
+- Kosuke Izumi
+- Jacqueline Leonard
+- Dong Li
+- Elaine H. Zackai
+- Ian A. Glass
+- Scott Ward
+- Philippe M. Campeau
+- Maria Carla Hermida Borroto
+- Laurence Le Moigno
+- Hilde Van Esch
+- Liesbeth De Waele
+- Daniel G. Calame
+- James R. Lupski
+- Giulia Barcia
+- Cristina Peduto
+- Pauline Planté-Bordeneuve
+- Lucie Dupuis
+- Roberto Mendoza-Londono
+- Dimitri J. Stavropoulos
+- Jennifer Gillibert-Duplantier
+- Thomas Besnard
+- Laura Do Souto Ferreira
+- Benjamin Cogné
+- Stéphane Bézieau
+- Arnaud Droit
+- Laurent Corcos
+- Eric Lippert
+- Claude Férec
+- Sebastien Küry
+- Delphine G. Bernard
+date: '2026-01-23T00:00:00Z'
+publication_types:
+- article-journal
+publication:
+  name: Nature communications
+  volume: '17'
+  issue: '1'
+  page: '1569'
+peer_reviewed: true
+open_access: false
+abstract: SF3B1 is an essential and ubiquitous splicing factor that plays a pivotal role in the early steps of pre-mRNA splicing. Recurrent somatic missense mutations in SF3B1 are frequent in cancers, but no constitutional variant has been reported so far. We describe here a cohort of 26 individuals with neurodevelopmental disorders, harbouring SF3B1 constitutional heterozygous variants that appeared mostly de novo. Patients present with a global developmental delay, associated with variable neurological and facial dysmorphic traits. A dichotomy may emerge between patients harbouring predicted loss of function (n = 9) and missense variants (n = 17), the latter being associated with a more severe and syndromic phenotype, including heart and gastrointestinal anomalies. We focused on de novo SF3B1 missense variants, which were largely distinct from those reported in cancer. Functional complementation assays show that de novo SF3B1 missense variants did not cause a loss of function of the protein.
+  Targeted and genome-wide analysis of RNA splicing reveal that they affect canonical and alternative splicing more moderately than somatic variants, and subtly modify the splicing of many transcripts. These findings place SF3B1 among the rare U2 snRNP components implicated in both cancer and neurodevelopmental disorders, highlighting its critical and multifaceted role in human disease.
+summary: SF3B1 is an essential and ubiquitous splicing factor that plays a pivotal role in the early steps of pre-mRNA splicing. Recurrent somatic missense mutations in SF3B1 are frequent in cancers, but no constitutional variant has been reported so far. We describe here a cohort of 26 individuals with neurodevelopmental disorders, harbouring SF3B1 constitutional heterozygous variants that appeared mostly...
+tags:
+- Female
+- Humans
+- Male
+- Mutation
+- Missense
+- Adolescent
+- Child
+- Phenotype
+- Child
+- Preschool
+- Infant
+- RNA Splicing
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1038/s41467-026-68284-9
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

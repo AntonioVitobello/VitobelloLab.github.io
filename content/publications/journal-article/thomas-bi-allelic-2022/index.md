@@ -1,0 +1,103 @@
+---
+title: Bi-allelic loss-of-function variants in TMEM147 cause moderate to profound intellectual disability with facial dysmorphism and pseudo-pelger-huët anomaly.
+authors:
+- Quentin Thomas
+- Marialetizia Motta
+- Thierry Gautier
+- Maha S. Zaki
+- Andrea Ciolfi
+- Julien Paccaud
+- François Girodon
+- Odile Boespflug-Tanguy
+- Thomas Besnard
+- Jennifer Kerkhof
+- Haley McConkey
+- Aymeric Masson
+- Anne-Sophie Denommé-Pichon
+- Benjamin Cogné
+- Eva Trochu
+- Virginie Vignard
+- Fatima El It
+- Lance H. Rodan
+- Mohammad Ayman Alkhateeb
+- Rami Abou Jamra
+- Laurence Duplomb
+- Emilie Tisserant
+- Yannis Duffourd
+- Ange-Line Bruel
+- Adam Jackson
+- Siddharth Banka
+- Meriel McEntagart
+- Anand Saggar
+- Joseph G. Gleeson
+- David Sievert
+- Hyunwoo Bae
+- Beom Hee Lee
+- Kisang Kwon
+- Go Hun Seo
+- Hane Lee
+- Anjum Saeed
+- Nadeem Anjum
+- Huma Cheema
+- Salem Alawbathani
+- Imran Khan
+- Jorge Pinto-Basto
+- Joyce Teoh
+- Jasmine Wong
+- Umar Bin Mohamad Sahari
+- Henry Houlden
+- Kristina Zhelcheska
+- Melanie Pannetier
+- Mona A. Awad
+- Marion Lesieur-Sebellin
+- Giulia Barcia
+- Jeanne Amiel
+- Julian Delanne
+- Christophe Philippe
+- Laurence Faivre
+- Sylvie Odent
+- Aida Bertoli-Avella
+- Christel Thauvin
+- Bekim Sadikovic
+- Bruno Reversade
+- Reza Maroofian
+- Jérôme Govin
+- Marco Tartaglia
+- Antonio Vitobello
+date: '2022-10-06T00:00:00Z'
+publication_types:
+- article-journal
+publication:
+  name: American journal of human genetics
+  volume: '109'
+  issue: '10'
+  page: 1909-1922
+peer_reviewed: true
+open_access: false
+abstract: 'The transmembrane protein TMEM147 has a dual function: first at the nuclear envelope, where it anchors lamin B receptor (LBR) to the inner membrane, and second at the endoplasmic reticulum (ER), where it facilitates the translation of nascent polypeptides within the ribosome-bound TMCO1 translocon complex. Through international data sharing, we identified 23 individuals from 15 unrelated families with bi-allelic TMEM147 loss-of-function variants, including splice-site, nonsense, frameshift, and missense variants. These affected children displayed congruent clinical features including coarse facies, developmental delay, intellectual disability, and behavioral problems. In silico structural analyses predicted disruptive consequences of the identified amino acid substitutions on translocon complex assembly and/or function, and in vitro analyses documented accelerated protein degradation via the autophagy-lysosomal-mediated pathway. Furthermore, TMEM147-deficient cells showed CKAP4
+  (CLIMP-63) and RTN4 (NOGO) upregulation with a concomitant reorientation of the ER, which was also witnessed in primary fibroblast cell culture. LBR mislocalization and nuclear segmentation was observed in primary fibroblast cells. Abnormal nuclear segmentation and chromatin compaction were also observed in approximately 20% of neutrophils, indicating the presence of a pseudo-Pelger-Huët anomaly. Finally, co-expression analysis revealed significant correlation with neurodevelopmental genes in the brain, further supporting a role of TMEM147 in neurodevelopment. Our findings provide clinical, genetic, and functional evidence that bi-allelic loss-of-function variants in TMEM147 cause syndromic intellectual disability due to ER-translocon and nuclear organization dysfunction.'
+summary: 'The transmembrane protein TMEM147 has a dual function: first at the nuclear envelope, where it anchors lamin B receptor (LBR) to the inner membrane, and second at the endoplasmic reticulum (ER), where it facilitates the translation of nascent polypeptides within the ribosome-bound TMCO1 translocon complex. Through international data sharing, we identified 23 individuals from 15 unrelated families ...'
+tags:
+- Chromatin
+- Humans
+- Child
+- transcriptomics
+- intellectual disability
+- Loss of Heterozygosity
+- DNA methylation
+- neurodevelopmental disorder
+- '*Intellectual Disability/genetics'
+- '*Musculoskeletal Abnormalities'
+- '*Pelger-Huet Anomaly/genetics'
+- Cell Nucleus/genetics
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1016/j.ajhg.2022.08.008
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

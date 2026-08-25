@@ -1,0 +1,96 @@
+---
+title: The solve-RD solvathons as a pan-european interdisciplinary collaboration to diagnose patients with rare disease.
+authors:
+- Vicente A. Yépez
+- German Demidov
+- Kornelia Ellwanger
+- Steven Laurie
+- Rebeka Luknárová
+- Midhuna Immaculate Joseph Maran
+- Thomas Hentrich
+- Lydia Sagath
+- Bart van der Sanden
+- Galuh Astuti
+- Kornelia Neveling
+- Laura Batlle-Masó
+- Danique Beijer
+- Felix Brechtmann
+- Andrés Caballero-Oteyza
+- Marc Dabad
+- Anne-Sophie Denommé-Pichon
+- Cenna Doornbos
+- Zakaria Eddafir
+- Berta Estévez-Arias
+- Ozge Aksel Kilicarslan
+- Ingrid H. M. Kolen
+- Leon Kraß
+- Katja Lohmann
+- Shubhankar Londhe
+- Estrella López-Martín
+- Kars Maassen
+- William Macken
+- Beatriz Martínez-Delgado
+- Davide Mei
+- Christian Mertes
+- Raffaella Minardi
+- Heba Morsy
+- Juliane S. Mueller
+- Daniel Natera-de Benito
+- Isabelle Nelson
+- Machteld M. Oud
+- Ida Paramonov
+- Daniel Picó
+- Davide Piscia
+- Kiran Polavarapu
+- Emanuele Raineri
+- Marco Savarese
+- Noor Smal
+- Marloes Steehouwer
+- Wouter Steyaert
+- Morris A. Swertz
+- Mirja Thomsen
+- Ana Töpf
+- Liedewei Van de Vondel
+- Gerben van der Vries
+- Antonio Vitobello
+- Carlo Wilke
+- Birte Zurek
+- Peter-Bram T’ Hoen
+- Leslie Matalonga
+- Lisenka E. L. M. Vissers
+- Christian Gilissen
+- Julia Schulze-Hentrich
+- Sergi Beltran
+- Anna Esteve-Codina
+- Alexander Hoischen
+- Julien Gagneur
+- Holm Graessner
+date: 2025-10
+publication_types:
+- article-journal
+publication:
+  name: Nature genetics
+  volume: '57'
+  issue: '10'
+  page: 2361-2370
+peer_reviewed: true
+open_access: false
+abstract: Despite advances in genomic diagnostics, the majority of individuals with rare diseases remain without a confirmed genetic diagnosis. The rapid emergence of advanced omics technologies, such as long-read genome sequencing, optical genome mapping and multiomic profiling, has improved diagnostic yield but also substantially increased analytical and interpretational complexity. Addressing this complexity requires systematic multidisciplinary collaboration, as recently demonstrated by targeted diagnostic workshops. Here, we highlight the experience of the Solve-RD consortium, a pan-European initiative, in implementing four structured workshops, termed ’Solvathons’, as a regular and effective component of its operational workflow. We provide actionable insights, best practices and lessons learned for successful data integration, expert training and scalable collaborative diagnostics within large research consortia.
+summary: Despite advances in genomic diagnostics, the majority of individuals with rare diseases remain without a confirmed genetic diagnosis. The rapid emergence of advanced omics technologies, such as long-read genome sequencing, optical genome mapping and multiomic profiling, has improved diagnostic yield but also substantially increased analytical and interpretational complexity. Addressing this comple...
+tags:
+- Humans
+- Genomics/methods
+- Genetic Testing/methods
+- '*Rare Diseases/diagnosis/genetics'
+- Europe
+featured: false
+links:
+- type: doi
+  url: https://doi.org/10.1038/s41588-025-02290-3
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+slides: ''
+---

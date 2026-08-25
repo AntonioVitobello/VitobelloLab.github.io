@@ -6,7 +6,18 @@
   position: relative;
 }
 
-/* Left-align the Hero text */
+/* Move Hero content to the left */
+.lab-hero .max-w-prose {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.lab-hero .mx-auto {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+/* Text alignment */
 .lab-hero h1,
 .lab-hero p {
   text-align: left;

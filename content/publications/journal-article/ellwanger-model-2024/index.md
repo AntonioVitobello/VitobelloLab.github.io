@@ -29,7 +29,7 @@ authors:
   - "Philippe M. Campeau"
   - "Paul Lasko"
   - "Olaf Riess"
-date: "2024-07"
+date: "2024-07-01"
 publication_types:
   - "article-journal"
 publication_role: author

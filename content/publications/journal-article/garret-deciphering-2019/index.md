@@ -21,7 +21,7 @@ authors:
   - "Laurence Faivre"
   - "Christel Thauvin-Robinet"
   - "Yannis Duffourd"
-date: "2019-12"
+date: "2019-12-01"
 publication_types:
   - "article-journal"
 publication_role: author

@@ -32,7 +32,7 @@ authors:
   - "Julien Thevenon"
   - "Laurence Faivre"
   - "Christel Thauvin-Robinet"
-date: "2020-07"
+date: "2020-07-01"
 publication_types:
   - "article-journal"
 publication_role: author

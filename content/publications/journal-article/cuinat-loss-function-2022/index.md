@@ -52,7 +52,7 @@ authors:
   - "Christophe Philippe"
   - "Stéphane Bezieau"
   - "Benjamin Cogné"
-date: "2022-08"
+date: "2022-08-01"
 publication_types:
   - "article-journal"
 publication_role: author

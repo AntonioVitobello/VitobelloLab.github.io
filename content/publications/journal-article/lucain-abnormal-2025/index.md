@@ -13,7 +13,7 @@ authors:
   - "Christophe Philippe"
   - "Sophie Nambot"
   - "Laurence Faivre"
-date: "2025-07"
+date: "2025-07-01"
 publication_types:
   - "article-journal"
 publication_role: author

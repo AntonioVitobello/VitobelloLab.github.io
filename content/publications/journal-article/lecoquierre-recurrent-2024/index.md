@@ -32,7 +32,7 @@ authors:
   - "Laurence Faivre"
   - "Ype Elgersma"
   - "Antonio Vitobello"
-date: "2024-06"
+date: "2024-06-01"
 publication_types:
   - "article-journal"
 publication_role: author

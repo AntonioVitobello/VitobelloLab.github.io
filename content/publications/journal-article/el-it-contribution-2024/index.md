@@ -6,7 +6,7 @@ authors:
   - "Christel Thauvin-Robinet"
   - "Antonio Vitobello"
   - "Laurence Duplomb"
-date: "2024-09"
+date: "2024-09-01"
 publication_types:
   - "article-journal"
 publication_role: author

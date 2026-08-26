@@ -91,7 +91,7 @@ authors:
   - "Lionel Van Maldergem"
   - "Lydie Burglen"
   - "Juliette Piard"
-date: "2023-09"
+date: "2023-09-01"
 publication_types:
   - "article-journal"
 publication_role: author

@@ -36,7 +36,7 @@ authors:
   - "F. Houdayer"
   - "C. Thauvin-Robinet"
   - "L. Faivre"
-date: "2019-06"
+date: "2019-06-01"
 publication_types:
   - "article-journal"
 publication_role: author

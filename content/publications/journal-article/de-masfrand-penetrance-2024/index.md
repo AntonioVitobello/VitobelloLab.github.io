@@ -23,7 +23,7 @@ authors:
   - "Pascale Saugier-Veber"
   - "Amélie Piton"
   - "Bertrand Isidor"
-date: "2024-06"
+date: "2024-06-01"
 publication_types:
   - "article-journal"
 publication_role: author

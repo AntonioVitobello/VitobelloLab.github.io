@@ -27,7 +27,7 @@ authors:
   - "Peter Hackman"
   - "Marco Savarese"
   - "Bjarne Udd"
-date: "2026-06"
+date: "2026-06-01"
 publication_types:
   - "article-journal"
 publication_role: collaboration

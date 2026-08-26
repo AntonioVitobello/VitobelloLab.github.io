@@ -68,7 +68,7 @@ authors:
   - "Bekim Sadikovic"
   - "Antonio Vitobello"
   - "Estelle Colin"
-date: "2025-11"
+date: "2025-11-01"
 publication_types:
   - "article-journal"
 publication_role: author

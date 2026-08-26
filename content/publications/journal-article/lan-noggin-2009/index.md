@@ -10,7 +10,7 @@ authors:
   - "Gian Carlo Demontis"
   - "Giuseppina Barsacchi"
   - "Simona Casarosa"
-date: "2009-09"
+date: "2009-09-01"
 publication_types:
   - "article-journal"
 publication_role: author

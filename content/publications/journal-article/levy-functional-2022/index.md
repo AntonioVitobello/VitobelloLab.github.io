@@ -93,7 +93,7 @@ authors:
   - "Marielle Alders"
   - "Matthew L. Tedder"
   - "Bekim Sadikovic"
-date: "2022-11"
+date: "2022-11-01"
 publication_types:
   - "article-journal"
 publication_role: author

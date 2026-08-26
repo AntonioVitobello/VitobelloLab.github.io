@@ -6,7 +6,7 @@ authors:
   - "Anne-Sophie Denommé-Pichon"
   - "Leslie Matalonga"
   - "Steve Laurie"
-date: "2022-01"
+date: "2022-01-01"
 publication_types:
   - "article-journal"
 publication_role: collaboration

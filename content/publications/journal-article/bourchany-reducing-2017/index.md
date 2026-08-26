@@ -32,7 +32,7 @@ authors:
   - "Jean-Baptiste Rivière"
   - "Julien Thevenon"
   - "Laurence Faivre"
-date: "2017-11"
+date: "2017-11-01"
 publication_types:
   - "article-journal"
 publication_role: author

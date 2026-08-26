@@ -6,7 +6,7 @@ authors:
   - "Antonio Vitobello"
   - "Filippo M. Rijli"
   - "Vincenzo Zappavigna"
-date: "2015-08"
+date: "2015-08-01"
 publication_types:
   - "article-journal"
 publication_role: author

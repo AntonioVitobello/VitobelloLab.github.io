@@ -17,7 +17,7 @@ authors:
   - "Francesco Miceli"
   - "Antonio Vitobello"
   - "Maurizio Taglialatela"
-date: "2019-09"
+date: "2019-09-01"
 publication_types:
   - "article-journal"
 publication_role: author

@@ -75,11 +75,9 @@ sections:
       title: "Research framework"
       text: |-
 
-        ### From human genetic variation to biological mechanisms
-
         We move from genetic variation to gene regulation, RNA biology, cellular function and ultimately human development and disease.
 
-        ![Research framework](framework.jpg)
+        ![Research framework](framework.png)
 
     design:
       columns: "1"

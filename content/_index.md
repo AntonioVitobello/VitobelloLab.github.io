@@ -62,6 +62,7 @@ sections:
 
     design:
       columns: "1"
+      css_class: "scientific-vision"
 
 
   # ============================================================

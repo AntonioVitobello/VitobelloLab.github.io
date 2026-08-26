@@ -78,3 +78,19 @@
   font-size: 1.15rem;
   line-height: 1.6;
 }
+
+/* ============================================================
+   SCIENTIFIC VISION
+   ============================================================ */
+
+.scientific-vision p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+@media (max-width: 768px) {
+  .scientific-vision p {
+    text-align: left;
+    hyphens: none;
+  }
+}

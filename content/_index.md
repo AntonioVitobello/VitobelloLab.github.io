@@ -77,9 +77,7 @@ sections:
 
         ### From human genetic variation to biological mechanisms
 
-        Human genetic variation provides a window into the molecular
-        mechanisms that govern gene regulation, RNA regulation and
-        organization, cellular function and human development and disease.
+        We move from genetic variation to gene regulation, RNA biology, cellular function and ultimately human development and disease.
 
         ![Research framework](framework.jpg)
 

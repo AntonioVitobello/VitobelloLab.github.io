@@ -81,7 +81,7 @@ sections:
         mechanisms that govern gene regulation, RNA regulation and
         organization, cellular function and human development and disease.
 
-        ![Research framework](/media/framework.jpg)
+        ![Research framework](framework.jpg)
 
     design:
       columns: "1"

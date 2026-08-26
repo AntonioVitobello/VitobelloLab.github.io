@@ -69,83 +69,83 @@ sections:
   # 3. RESEARCH FRAMEWORK
   # ============================================================
 
-- block: markdown
-  id: research
-  content:
-    title: "Research framework"
-    text: |-
+  - block: markdown
+    id: research
+    content:
+      title: "Research framework"
+      text: |-
+  
+        ### From human genetic variation to biological mechanisms
 
-      ### From human genetic variation to biological mechanisms
+        <div class="research-framework">
 
-      <div class="research-framework">
+          <div class="framework-intro">
+            Human genetic variation provides a window into the molecular
+            mechanisms that govern gene regulation, cellular organization
+            and developmental processes.
+          </div>
 
-        <div class="framework-intro">
-          Human genetic variation provides a window into the molecular
-          mechanisms that govern gene regulation, cellular organization
-          and developmental processes.
+          <div class="framework-flow">
+
+            <div class="framework-step">
+              <div class="framework-title">Human genetic<br>variation</div>
+              <div class="framework-items">
+                Genetic variants<br>
+                Natural variation
+              </div>
+            </div>
+
+            <div class="framework-arrow">→</div>
+
+            <div class="framework-step">
+              <div class="framework-title">Gene<br>regulation</div>
+              <div class="framework-items">
+                Transcription<br>
+                Chromatin<br>
+                RNA regulation
+              </div>
+            </div>
+
+            <div class="framework-arrow">→</div>
+
+            <div class="framework-step">
+              <div class="framework-title">RNA & protein<br>organization</div>
+              <div class="framework-items">
+                RNA localization<br>
+                Protein complexes<br>
+                Condensates
+              </div>
+            </div>
+
+            <div class="framework-arrow">→</div>
+
+            <div class="framework-step">
+              <div class="framework-title">Cellular<br>function</div>
+              <div class="framework-items">
+                Cell identity<br>
+                Cell fate<br>
+                Organoids
+              </div>
+            </div>
+
+            <div class="framework-arrow">→</div>
+
+            <div class="framework-step">
+              <div class="framework-title">Development &<br>disease</div>
+              <div class="framework-items">
+                Developmental processes<br>
+                Cellular phenotypes<br>
+                Human disease
+              </div>
+            </div>
+
+          </div>
+
         </div>
 
-        <div class="framework-flow">
-
-          <div class="framework-step">
-            <div class="framework-title">Human genetic<br>variation</div>
-            <div class="framework-items">
-              Genetic variants<br>
-              Natural variation
-            </div>
-          </div>
-
-          <div class="framework-arrow">→</div>
-
-          <div class="framework-step">
-            <div class="framework-title">Gene<br>regulation</div>
-            <div class="framework-items">
-              Transcription<br>
-              Chromatin<br>
-              RNA regulation
-            </div>
-          </div>
-
-          <div class="framework-arrow">→</div>
-
-          <div class="framework-step">
-            <div class="framework-title">RNA & protein<br>organization</div>
-            <div class="framework-items">
-              RNA localization<br>
-              Protein complexes<br>
-              Condensates
-            </div>
-          </div>
-
-          <div class="framework-arrow">→</div>
-
-          <div class="framework-step">
-            <div class="framework-title">Cellular<br>function</div>
-            <div class="framework-items">
-              Cell identity<br>
-              Cell fate<br>
-              Organoids
-            </div>
-          </div>
-
-          <div class="framework-arrow">→</div>
-
-          <div class="framework-step">
-            <div class="framework-title">Development &<br>disease</div>
-            <div class="framework-items">
-              Developmental processes<br>
-              Cellular phenotypes<br>
-              Human disease
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-
-  design:
-    columns: "1"
-    css_class: "research-framework-section"
+    design:
+      columns: "1"
+      css_class: "research-framework-section"
 
 
   # ============================================================

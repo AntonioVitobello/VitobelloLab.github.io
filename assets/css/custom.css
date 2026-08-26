@@ -99,78 +99,10 @@
    RESEARCH FRAMEWORK
    ============================================================ */
 
-.research-framework-section .research-framework {
-  margin-top: 2rem;
-}
-
-.research-framework-section .framework-intro {
-  max-width: 850px;
-  margin: 0 auto 2.5rem auto;
-  text-align: center;
-  font-size: 1.05rem;
-  line-height: 1.7;
-  color: #475569;
-}
-
-.research-framework-section .framework-flow {
-  display: flex;
-  align-items: stretch;
-  justify-content: center;
-  gap: 0.8rem;
+.research-framework-section img {
+  display: block;
   width: 100%;
-}
-
-.research-framework-section .framework-step {
-  flex: 1;
-  text-align: center;
-  padding: 1.4rem 0.8rem;
-}
-
-.research-framework-section .framework-title {
-  font-size: 1rem;
-  font-weight: 700;
-  line-height: 1.3;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: #1e293b;
-  min-height: 2.6rem;
-}
-
-.research-framework-section .framework-items {
-  margin-top: 1rem;
-  font-size: 0.85rem;
-  line-height: 1.8;
-  color: #64748b;
-}
-
-.research-framework-section .framework-arrow {
-  display: flex;
-  align-items: center;
-  font-size: 1.4rem;
-  color: #94a3b8;
-  padding-top: 0.2rem;
-}
-
-@media (max-width: 900px) {
-  .research-framework-section .framework-flow {
-    flex-wrap: wrap;
-  }
-
-  .research-framework-section .framework-step {
-    flex: 0 0 calc(50% - 2rem);
-  }
-
-  .research-framework-section .framework-arrow {
-    display: none;
-  }
-}
-
-@media (max-width: 600px) {
-  .research-framework-section .framework-step {
-    flex: 0 0 100%;
-  }
-
-  .research-framework-section .framework-intro {
-    text-align: left;
-  }
+  max-width: 1400px;
+  height: auto;
+  margin: 2.5rem auto 0 auto;
 }

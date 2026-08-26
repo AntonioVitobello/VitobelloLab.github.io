@@ -50,7 +50,7 @@ authors:
   - "Alain Verloes"
   - "Catherine M. Abbott"
   - "Lyse Ruaud"
-date: "2024-09"
+date: "2024-09-01"
 publication_types:
   - "article-journal"
 publication_role: author

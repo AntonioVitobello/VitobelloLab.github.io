@@ -22,7 +22,7 @@ authors:
   - "Alexander Hoischen"
   - "Holm Graessner"
   - "Sergi Beltran"
-date: "2021-09"
+date: "2021-09-01"
 publication_types:
   - "article-journal"
 publication_role: collaboration

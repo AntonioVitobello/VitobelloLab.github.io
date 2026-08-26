@@ -16,7 +16,7 @@ authors:
   - "Christel Thauvin-Robinet"
   - "Laurence Faivre"
   - "Sophie Nambot"
-date: "2022-12"
+date: "2022-12-01"
 publication_types:
   - "article-journal"
 publication_role: author

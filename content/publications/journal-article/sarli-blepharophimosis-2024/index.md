@@ -34,7 +34,7 @@ authors:
   - "Gerarda Cappuccio"
   - "Bekim Sadikovic"
   - "Nicola Brunetti-Pierri"
-date: "2024-12"
+date: "2024-12-01"
 publication_types:
   - "article-journal"
 publication_role: author

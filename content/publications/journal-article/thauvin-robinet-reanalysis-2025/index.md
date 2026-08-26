@@ -49,7 +49,7 @@ authors:
   - "Laurence Faivre"
   - "Frédéric Tran-Mau-Them"
   - "Nicolas Bourgon"
-date: "2025-05"
+date: "2025-05-01"
 publication_types:
   - "article-journal"
 publication_role: author

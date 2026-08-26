@@ -39,7 +39,7 @@ authors:
   - "H. J. Lin"
   - "C. Thauvin-Robinet"
   - "A. Vitobello"
-date: "2019-04"
+date: "2019-04-01"
 publication_types:
   - "article-journal"
 publication_role: author

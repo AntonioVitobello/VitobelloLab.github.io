@@ -265,7 +265,7 @@ authors:
   - "Clément Charenton"
   - "Julien Thevenon"
   - "Christel Depienne"
-date: "2025-06"
+date: "2025-06-01"
 publication_types:
   - "article-journal"
 publication_role: author

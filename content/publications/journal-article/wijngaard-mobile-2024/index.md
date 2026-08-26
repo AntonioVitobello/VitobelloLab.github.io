@@ -30,7 +30,7 @@ authors:
   - "Stephan Ossowski"
   - "Steven Laurie"
   - "Christian Gilissen"
-date: "2024-02"
+date: "2024-02-01"
 publication_types:
   - "article-journal"
 publication_role: author

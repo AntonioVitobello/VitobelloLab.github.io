@@ -14,7 +14,7 @@ authors:
   - "V. Gatinois"
   - "M. Willems"
   - "L. Faivre"
-date: "2025-04"
+date: "2025-04-01"
 publication_types:
   - "article-journal"
 publication_role: author

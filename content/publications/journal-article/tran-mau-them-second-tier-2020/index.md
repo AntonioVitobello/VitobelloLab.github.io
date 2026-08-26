@@ -30,7 +30,7 @@ authors:
   - "Laurence Faivre"
   - "Christophe Philippe"
   - "Christel Thauvin-Robinet"
-date: "2020-11"
+date: "2020-11-01"
 publication_types:
   - "article-journal"
 publication_role: author

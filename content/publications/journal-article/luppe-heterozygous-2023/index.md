@@ -18,7 +18,7 @@ authors:
   - "Johannes R. Lemke"
   - "Rami Abou Jamra"
   - "Konrad Platzer"
-date: "2023-03"
+date: "2023-03-01"
 publication_types:
   - "article-journal"
 publication_role: author

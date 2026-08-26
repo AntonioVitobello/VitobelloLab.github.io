@@ -13,7 +13,7 @@ authors:
   - "Heike Kölbel"
   - "Andreas Roos"
   - "Rita Horvath"
-date: "2021-09"
+date: "2021-09-01"
 publication_types:
   - "article-journal"
 publication_role: collaboration

@@ -30,7 +30,7 @@ authors:
   - "Antonio Vitobello"
   - "Laurence Faivre"
   - "Christel Thauvin-Robinet"
-date: "2024-05"
+date: "2024-05-01"
 publication_types:
   - "article-journal"
 publication_role: author

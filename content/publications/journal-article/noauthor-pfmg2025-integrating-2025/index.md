@@ -1,7 +1,7 @@
 ---
 title: "PFMG2025-integrating genomic medicine into the national healthcare system in France."
 authors: []
-date: "2025-03"
+date: "2025-03-01"
 publication_types:
   - "article-journal"
 publication_role: collaboration

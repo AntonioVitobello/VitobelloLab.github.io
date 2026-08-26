@@ -23,7 +23,7 @@ authors:
   - "L. Faivre"
   - "J. Albuisson"
   - "A. Vitobello"
-date: "2023-11"
+date: "2023-11-01"
 publication_types:
   - "article-journal"
 publication_role: author

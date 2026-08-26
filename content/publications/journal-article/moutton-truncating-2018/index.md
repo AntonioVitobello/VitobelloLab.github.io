@@ -19,7 +19,7 @@ authors:
   - "Y. Duffourd"
   - "C. Thauvin-Robinet"
   - "L. Faivre"
-date: "2018-06"
+date: "2018-06-01"
 publication_types:
   - "article-journal"
 publication_role: author

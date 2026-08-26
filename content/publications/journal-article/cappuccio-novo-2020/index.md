@@ -1,0 +1,71 @@
+---
+title: "De novo SMARCA2 variants clustered outside the helicase domain cause a new recognizable syndrome with intellectual disability and blepharophimosis distinct from Nicolaides-Baraitser syndrome."
+authors:
+  - "Gerarda Cappuccio"
+  - "Camille Sayou"
+  - "Pauline Le Tanno"
+  - "Emilie Tisserant"
+  - "Ange-Line Bruel"
+  - "Sara El Kennani"
+  - "Joaquim Sá"
+  - "Karen J. Low"
+  - "Cristina Dias"
+  - "Markéta Havlovicová"
+  - "Miroslava Hančárová"
+  - "Evan E. Eichler"
+  - "Françoise Devillard"
+  - "Sébastien Moutton"
+  - "Julien Van-Gils"
+  - "Christèle Dubourg"
+  - "Sylvie Odent"
+  - "Bénédicte Gerard"
+  - "Amélie Piton"
+  - "Toshiyuki Yamamoto"
+  - "Nobuhiko Okamoto"
+  - "Helen Firth"
+  - "Kay Metcalfe"
+  - "Anna Moh"
+  - "Kimberly A. Chapman"
+  - "Erfan Aref-Eshghi"
+  - "Jennifer Kerkhof"
+  - "Annalaura Torella"
+  - "Vincenzo Nigro"
+  - "Laurence Perrin"
+  - "Juliette Piard"
+  - "Gwenaël Le Guyader"
+  - "Thibaud Jouan"
+  - "Christel Thauvin-Robinet"
+  - "Yannis Duffourd"
+  - "Jaya K. George-Abraham"
+  - "Catherine A. Buchanan"
+  - "Denise Williams"
+  - "Usha Kini"
+  - "Kate Wilson"
+  - "Sérgio B. Sousa"
+  - "Raoul C. M. Hennekam"
+  - "Bekim Sadikovic"
+  - "Julien Thevenon"
+  - "Jérôme Govin"
+  - "Antonio Vitobello"
+  - "Nicola Brunetti-Pierri"
+date: "2020-11"
+publication_types:
+  - "article-journal"
+publication_role: author
+publication_position: penultimate
+featured: true
+tags:
+  - featured
+publication:
+  name: "Genetics in medicine : official journal of the American College of Medical Genetics"
+  volume: "22"
+  issue: "11"
+  pages: "1838--1850"
+abstract: "PURPOSE: Nontruncating variants in SMARCA2, encoding a catalytic subunit of SWI/SNF chromatin remodeling complex, cause Nicolaides-Baraitser syndrome (NCBRS), a condition with intellectual disability and multiple congenital anomalies. Other disorders due to SMARCA2 are unknown. METHODS: By next-generation sequencing, we identified candidate variants in SMARCA2 in 20 individuals from 18 families with a syndromic neurodevelopmental disorder not consistent with NCBRS. To stratify variant interpretation, we functionally analyzed SMARCA2 variants in yeasts and performed transcriptomic and genome methylation analyses on blood leukocytes. RESULTS: Of 20 individuals, 14 showed a recognizable phenotype with recurrent features including epicanthal folds, blepharophimosis, and downturned nasal tip along with variable degree of intellectual disability (or blepharophimosis intellectual disability syndrome [BIS]). In contrast to most NCBRS variants, all SMARCA2 variants associated with BIS are localized outside the helicase domains. Yeast phenotype assays differentiated NCBRS from non-NCBRS SMARCA2 variants. Transcriptomic and DNA methylation signatures differentiated NCBRS from BIS and those with nonspecific phenotype. In the remaining six individuals with nonspecific dysmorphic features, clinical and molecular data did not permit variant reclassification. CONCLUSION: We identified a novel recognizable syndrome named BIS associated with clustered de novo SMARCA2 variants outside the helicase domains, phenotypically and molecularly distinct from NCBRS."
+keywords: "Humans, Phenotype, intellectual disability, neurodevelopmental disorder, Facies, *Intellectual Disability/genetics, Foot Deformities, Congenital, SMARCA2, Transcription Factors/genetics, *Blepharophimosis, *Hypotrichosis, BIS, Nicolaides–Baraitser syndrome"
+links:
+  - type: doi
+    url: "https://doi.org/10.1038/s41436-020-0898-y"
+projects: []
+slides: ""
+---

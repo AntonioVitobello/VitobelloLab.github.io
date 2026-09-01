@@ -213,13 +213,14 @@ sections:
     id: publications
     content:
       title: "Publications"
-      text: "Our complete list of publications."
+      text: "Our selected publications."
       filters:
         folders:
           - publications
+          featured_only: true
     design:
       view: article-grid
-      columns: 3
+      columns: 5
 
 
   # ============================================================

@@ -28,7 +28,7 @@ publication_types:
   - "article-journal"
 publication_role: author
 publication_position: last
-featured: true
+featured: false
 tags:
   - featured
 publication:

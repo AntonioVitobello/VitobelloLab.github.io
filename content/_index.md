@@ -220,7 +220,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 5
+      columns: 3
 
 
   # ============================================================

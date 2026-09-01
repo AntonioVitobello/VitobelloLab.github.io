@@ -23,7 +23,7 @@ sections:
         url: "#research"
       secondary_action:
         text: "Publications"
-        url: "/publication/"
+        url: "#publications"
     design:
       css_class: "lab-hero"
       size: "viewport"

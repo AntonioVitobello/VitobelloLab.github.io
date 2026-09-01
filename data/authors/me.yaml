@@ -14,10 +14,7 @@ status:
   icon: "☕️"
 role: Professor of Medical Genetics (Laboratory)
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Antonio Vitobello is Professor of Medical Genetics at Université Bourgogne Europe and a clinical genomics specialist at Dijon University Hospital. His research focuses on how genetic variation disrupts gene regulation and contributes to rare and developmental disorders. His work combines human genomics with functional approaches to uncover disease mechanisms and resolve unsolved diagnoses. He has published over 140 scientific articles and is passionate about bridging genomic discovery with molecular biology and clinical genetics.
 
 affiliations:
   - name: Université Bourgogne Europe
@@ -29,18 +26,14 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:antonio.vitobello@ube.fr
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/antonio-vitobello-8b174333/?locale=en
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=Tj7ex_8AAAAJ&hl=it&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-3717-8374
 
 interests:
   - Gene regulation

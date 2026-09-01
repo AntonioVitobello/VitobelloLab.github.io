@@ -117,96 +117,8 @@ sections:
     design:
       columns: "1"
 
-
-  # ============================================================
-  # 5. DISCOVERY & FUNCTIONAL GENOMICS
-  # ============================================================
-
-  - block: markdown
-    id: discovery
-    content:
-      title: "Discovery & Functional Genomics"
-      text: |-
-
-        We integrate **genomics, transcriptomics, epigenomics and
-        multi-omics approaches** to identify disease-associated genetic
-        variation and uncover molecular mechanisms in unresolved rare
-        disorders.
-
-        These discoveries provide the starting point for functional studies
-        of **gene regulation, RNA biology and cellular mechanisms**.
-
-        **Discovery**  
-        Genomics · Transcriptomics · Epigenomics · Multi-omics
-
-        **Definition**  
-        Gene regulation · RNA biology · Cellular mechanisms
-
-        **Functional modeling**  
-        CRISPR/Cas9 · Cellular models · Organoids · Single-cell · Spatial approaches
-
-        ### European networks & consortia
-
-        **Solve-RD · ERDERA**
-
-    design:
-      columns: "1"
-
-
-  # ============================================================
-  # 6. SELECTED PUBLICATIONS
-  # ============================================================
-
-  - block: markdown
-    id: selected-publications
-    content:
-      title: "Selected publications"
-      text: |-
-
-        ### 01 · Genetic discovery
-
-        From genomic variation to the identification of genes and
-        molecular mechanisms underlying rare human disorders.
-
-        ### 02 · Gene regulation & developmental mechanisms
-
-        Discovering how regulatory proteins shape gene expression,
-        cellular identity and human development.
-
-        ### 03 · RNA biology & spatial regulation
-
-        Understanding how RNA-binding proteins and RNA localization
-        contribute to cellular function and disease.
-
-        ### 04 · From mechanism to phenotype
-
-        Connecting molecular mechanisms to cellular and developmental
-        phenotypes through functional genomics and experimental models.
-
-    design:
-      columns: "1"
-
-
-  # ============================================================
-  # 7. RESEARCH PROJECTS
-  # ============================================================
-
-  - block: collection
-    id: projects
-    content:
-      title: "Research Projects"
-      text: "Selected projects supporting our research program."
-      filters:
-        folders:
-          - projects
-        exclude_featured: false
-    design:
-      view: card
-      columns: 3
-
-
-  # ============================================================
-  # 8. ALL PUBLICATIONS
+ # ============================================================
+  # 5. ALL PUBLICATIONS
   # ============================================================
 
   - block: collection
@@ -224,7 +136,39 @@ sections:
 
 
   # ============================================================
-  # 9. LATEST NEWS
+  # 6. RESEARCH PROJECTS
+  # ============================================================
+
+  - block: collection
+    id: projects
+    content:
+      title: "Research Projects"
+      text: "Selected projects supporting our research program."
+      filters:
+        folders:
+          - projects
+        exclude_featured: false
+    design:
+      view: card
+      columns: 3
+
+    
+ # ============================================================
+  # 7. PEOPLE
+  # ============================================================
+
+  - block: markdown
+    id: discovery
+    content:
+      title: "People"
+      text: |-
+
+    design:
+      columns: "1"
+
+    
+  # ============================================================
+  # 8. LATEST NEWS
   # ============================================================
 
   - block: collection
@@ -244,7 +188,7 @@ sections:
 
 
   # ============================================================
-  # 10. JOIN THE LAB
+  # 9. JOIN THE LAB
   # ============================================================
 
   - block: cta-card

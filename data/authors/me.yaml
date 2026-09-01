@@ -2,18 +2,17 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Prof. Antonio Vitobello
+  given: Antonio
+  family: Vitobello
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Professor of Medical Genetics (Laboratory)
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -21,8 +20,12 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Université Bourgogne Europe
+    url: https://www.ube.fr
+  - name: CHU Dijon Bourgogne
+    url: https://www.chu-dijon.fr
+  - name: Centre de recherche Translationnelle en Médecine moléculaire
+    url: https://ctm.ube.fr
 
 links:
   - icon: at-symbol
@@ -40,57 +43,49 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Gene regulation
+  - Transcriptomics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Neurobiology
+    institution: University of Basel
+    end: 2013-09-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Transcriptional and epigenetic regulation of hindbrain development in the mouse
     button:
       text: Download dissertation
-      url: /resume.pdf
+      url: https://edoc.unibas.ch/entities/publication/5017d80a-76cb-43c3-8ff2-48e33ad82716
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS Biology
+    institution: University of Pisa
+    end: 2006-11-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Post-doctoral researcher
+    org: Novartis Institute for Biomedical Research (NIBR)
+    start: 2013-04-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: 
+    org: 
+    start: 
+    end: 
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      
 
 skills:
-  - name: Technical Skills
+  - name: 
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
+        level: 
+      - label: 
+        level: 
+      - label: 
+        level: 
   - name: Research & Communication
     items:
       - label: Academic Writing
@@ -101,16 +96,19 @@ skills:
         level: 4
 
 languages:
-  - name: English
+  - name: Italian
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
+    level: 4
+    label: Fluent
+  - name: French
     level: 4
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: 
+    awarder: 
+    date: 
+    summary: 
+    icon: 

@@ -40,7 +40,7 @@ publication_types:
   - "article-journal"
 publication_role: author
 publication_position: penultimate
-featured: true
+featured: false
 tags:
   - featured
 publication:

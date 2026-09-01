@@ -166,29 +166,10 @@ sections:
     design:
       columns: "1"
 
-    
-  # ============================================================
-  # 8. LATEST NEWS
-  # ============================================================
-
-  - block: collection
-    id: news
-    content:
-      title: "Latest News"
-      page_type: blog
-      count: 6
-      filters:
-        exclude_future: false
-        exclude_past: false
-      order: desc
-    design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
 
 
   # ============================================================
-  # 9. JOIN THE LAB
+  # 8. JOIN THE LAB
   # ============================================================
 
   - block: cta-card

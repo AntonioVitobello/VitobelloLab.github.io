@@ -77,7 +77,7 @@ sections:
 
         We move from genetic variation to gene regulation, RNA biology, cellular function and ultimately human development and disease.
 
-        ![Research framework](framework.png)
+        ![Research framework](/media/framework.png)
 
     design:
       columns: "1"
